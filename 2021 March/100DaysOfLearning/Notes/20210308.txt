@@ -1,0 +1,35 @@
+Notes from going through the eBook "Serverless for everyone else"
+
+What is "Helm Charts" and "Arkade tool"
+	* Helm: package manager for Kubernetes (https://helm.sh/).
+	* Arkade: (https://github.com/alexellis/arkade) Open Source Kubernetes Marketplace. Works with helm charts
+
+What is OpenFaas?
+	* Makes it simple to deploy both functions and existing code to Kubernetes
+	* Founded by Alex Ellis (https://www.alexellis.io/)
+	* Docker based
+
+What is faasd?
+	* A server that runs a stack of core OpenFaaS services.
+	* A light-weight way of running OpenFaaS.
+	* Can not scale beyond one replica and cannot build clusters.
+
+What is Kubernetes?
+	* Automated container deployment, scaling, and management
+	* a.k.a K8s (the 8 refers to the 8 letters between K and s - Learned from Anaïs Urlichs [https://twitter.com/urlichsanais] tips)
+	
+The PLONK stack (OpenFaaS)
+	* Prometheus - a time-series database to capture metrics
+	* Linux - OS to provide containers
+	* OpenFaaS - management and auto-scaling of functions/micro-services
+	* NATS - asynchronous message bus / queue for deferred execution
+	* Kubernetes - declarative, extensible, scale-out, self-healing clustering
+
+What is multipass?
+	* Amazing! Made by Canonical and is an easy way to spin up Linux VM https://multipass.run/
+
+faasd swaps out Kubernetes for containerd which is a low level container runtime.
+
+Next actions:
+* Install Multipass on my mac
+* Follow the video workshop from Alex and get faasd installed on the Multipass instance
