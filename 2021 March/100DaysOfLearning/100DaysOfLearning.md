@@ -22,32 +22,27 @@ The challenge would be a failure if I have gone 3 consecutive days without follo
 
 ### Day 0: 8 March 2021
 
-**Today**: Short description
+**Today**: Started going through Alex Ellis's book "Serverless for everyone else" and learned about OpenFaaS, faasd and multipass.
 
-**Thoughts:** Paragraph or two
-
-**Key concepts:**
-
-1. X happens before Y
-2. Y is important because of such and such
-
-**Links:**
-
-1. [Book about X](http://www.example.com)
-
---
-
-### Day 0: 8 March 2021
-
-**Today**: Short description
-
-**Thoughts:** Paragraph or two
+**Thoughts:** I actually liked learning about setting up faasd locally on my Mac and deploying my first FaaS (cowsay / ASCII Cows)
 
 **Key concepts:**
 
-1. X happens before Y
-2. Y is important because of such and such
+1. Kubernetes (a.k.a K8s): Orchestrates container deployment, scaling, and management.
+2. FaaS: Function as a Service.
+2. OpenFaaS: Makes it simple to deploy both functions and existing code to Kubernetes.
+3. faasd: Light-weight way of running OpenFaaS. Not really scalable but still very cool.
+4. faasd swaps out Kubernetes for containerd which is a low level container runtime.
+5. Multipass: Amazing! How did I not know about this. Super easy way to run Ubuntu instances.
 
 **Links:**
 
-1. [Book about X](http://www.example.com)
+1. [Day 0 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-0-serverless-openfaas-and-multipass/)
+2. [Serverless for Everyone Else](https://gumroad.com/l/serverless-for-everyone-else)
+3. [Alex Ellis' blog](https://blog.alexellis.io/)
+4. [OpenFaaS](https://www.openfaas.com/)
+5. [faasd](https://github.com/openfaas/faasd)
+6. [Kubernetes](https://kubernetes.io/)
+7. [Multipass](https://multipass.run/)
+
+---
