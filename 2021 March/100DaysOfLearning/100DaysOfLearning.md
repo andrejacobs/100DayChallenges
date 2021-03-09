@@ -46,3 +46,23 @@ The challenge would be a failure if I have gone 3 consecutive days without follo
 7. [Multipass](https://multipass.run/)
 
 ---
+
+### Day 1: 9 March 2021
+
+**Today**: Signed up to Notion and learned the basics of using Notion. Also managed to setup faas-cli on my Mac and invoke a function.
+
+**Thoughts:** Notion has been on my radar for a while but at face value it looked complicated. I am so glad I took the plunge! This is THE tool I have been looking for. In fact I managed to write the entire blog post in it and export it to markdown and then add to wordpress.
+
+**Key concepts:**
+
+1. Notion is awesome. Just try it!
+2. faas-cli can be installed on Mac using brew (I love brew!)
+3. faas-cli is pretty easy to setup and start using against faasd
+
+**Links:**
+
+1. [Day 1 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-1-notion-and-faas-cli/)
+2. [faas-cli](https://github.com/openfaas/faas-cli)
+3. [Notion](https://www.notion.so/)
+
+---

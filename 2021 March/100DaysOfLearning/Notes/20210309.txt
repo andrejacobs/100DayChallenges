@@ -1,0 +1,22 @@
+Today's agenda
+* Take a small detour by learning about using Notion. Why? So that I can take better notes and share it with other people.
+* Install faas-cli and explore it a bit.
+
+Notion
+------
+
+* Block based editor
+* Type / and then you can choose a block type (e.g. Heading 2, bullet list)
+* Pages can have sub pages (infinitely)
+* Highlight text to get a styling menu
+* Blocks can be reordered by dragging the ::
+* You can build templates to make it easier to add new pages
+* Can do Kanban boards with the Task List template
+* Has the concept of a Database view. Spreadsheets++
+* Can import markdown, html, csv etc.
+* Powerful Sharing and permissions are available
+* Can Export to markdown, PDF etc. <-- LOVE THIS!
+
+Action points
+-------------
+Watch Thomas Frank's video about how he uses Notion (this is what led me to wanting to learn Notion, also lots of people use it [like Anaïs])
