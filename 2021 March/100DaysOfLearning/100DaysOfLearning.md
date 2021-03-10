@@ -66,3 +66,25 @@ The challenge would be a failure if I have gone 3 consecutive days without follo
 3. [Notion](https://www.notion.so/)
 
 ---
+
+### Day 2: 10 March 2021
+
+**Today**: Managed to deploy my first function using faasd and faas-cli. Was only the blank python3 template but still stoked!
+
+**Thoughts:** The learning challenge is going well so far and I have a bit of momentum at the moment. I won't lie, having a 3.5, 1.5 year old and a very demanding full time job and then to still try and learn new things (and not just veg out on the sofa) is no easy task. I get my energy from knowing that there is actually people on Twitter following my progress and liking my journey. Thank you to every one!
+
+**Key concepts:**
+
+1. OpenFaaS gateway can be accessed as a REST API (JSON)
+2. jq is handy cli for working with JSON
+3. OpenFaaS functions are packaged as Docker container images
+4. GitHub has a container registry as well, Nice! https://github.com/features/packages
+5. OpenFaaS has templates for various languages and stacks to help bootstrap a new function
+6. To get the list of templates: faas-cli template store list
+
+**Links:**
+
+1. [Day 2 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-2-deploying-my-first-python-based-function/)
+2. [Serverless for Everyone Else](https://gumroad.com/l/serverless-for-everyone-else)
+
+---
