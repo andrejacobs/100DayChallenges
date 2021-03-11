@@ -88,3 +88,21 @@ The challenge would be a failure if I have gone 3 consecutive days without follo
 2. [Serverless for Everyone Else](https://gumroad.com/l/serverless-for-everyone-else)
 
 ---
+
+### Day 3: 11 March 2021
+
+**Today**: Did some more learning about OpenFaaS and how to call another API end point. Also refreshed a bit on Swift knowledge.
+
+**Thoughts:** It is good to get out of your comfort zone a bit.
+
+**Key concepts:**
+
+1. You can invoke your faasd function directly by calling the API end point.
+2. If you are using the node template, then you must install npm packages in the same directory where the handler.js file is.
+3. Swift's value types like String, Array, Dictionary etc. uses Copy-on-Write.
+
+**Links:**
+
+1. [Day 3 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-3-calling-another-api-from-our-openfaas-function/)
+
+---
