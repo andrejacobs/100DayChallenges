@@ -106,3 +106,24 @@ The challenge would be a failure if I have gone 3 consecutive days without follo
 1. [Day 3 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-3-calling-another-api-from-our-openfaas-function/)
 
 ---
+
+### Day 4: 12 March 2021
+
+**Today**: Using Environment variables and Secrets in OpenFaaS. Also some more Swift refreshments.
+
+**Thoughts:** Managed to do 5 days straight of learning and writing, so I am quite chuffed.
+
+**Key concepts:**
+
+1. You can configure environment variables in the yaml file and then your function can access it as per norm.
+2. YAML does not like tabs!
+3. You can also supply secrets to your function and these are made available to the function at the path: /var/openfaas/secrets/NAME_OF_SECRET.
+4. A secret name must start and end with an alphanumeric character and can only contain lower-case alphanumeric characters, '-' or '.'
+5. Swift: Mutating a Struct (value type) instance is not the same as mutating an Object (reference) instance.
+6. Swift: Members need to be declared as var in order to be mutable, however the variable declaration still determines if that member is allowed to be mutated or not.
+
+**Links:**
+
+1. [Day 4 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-4-using-environment-variables-and-secrets-in-openfaas/)
+
+---
