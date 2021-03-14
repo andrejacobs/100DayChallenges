@@ -150,3 +150,20 @@ The challenge would be a failure if I have gone 3 consecutive days without follo
 2. [OpenFaaS async](https://docs.openfaas.com/reference/async/)
 
 ---
+
+### Day 6: 14 March 2021
+
+**Today**: Setup a MariaDB database in AWS RDS and connected to it using MySQLWorkbench. This is the first part of a small little project that will make use of different concepts to learn and explore.
+
+**Thoughts:** Week 1 has been completed! Even if I only had 3 hours sleep last night. Kids man! Regardless it has been an amazing week of learning.
+
+**Key concepts:**
+
+n/a today.
+
+**Links:**
+
+1. [Day 6 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-6-lets-build-our-own-lego-database-using-mariadb-in-aws-rds-and-openfaas/)
+2. [Amazon Web Services](https://aws.amazon.com/)
+
+---
