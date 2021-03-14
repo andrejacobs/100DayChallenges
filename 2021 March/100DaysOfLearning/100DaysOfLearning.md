@@ -127,3 +127,26 @@ The challenge would be a failure if I have gone 3 consecutive days without follo
 1. [Day 4 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-4-using-environment-variables-and-secrets-in-openfaas/)
 
 ---
+
+### Day 5: 13 March 2021
+
+**Today**: Managed to call an OpenFaaS function asynchronously and deliver the results to another function which ends up emailing to myself.
+
+**Thoughts:** It was a lot harder than I thought to try and send an email from the container etc.
+
+**Key concepts:**
+
+1. docker-compose.yaml can be modified to change the listening port of the gateway.
+2. To restart faasd: sudo systemctl daemon-reload && sudo systemctl restart faasd.
+3. Each end point have an /async-function/ equivalent.
+4. You can not send a GET request to these end points but instead need to POST to them.
+5. By default the async promise response go to /dev/null.
+6. You need to use a callback end point to receive the promise's response.
+7. To check the log for a function: sudo journalctl -t openfaas-fn:FUNCTION_NAME
+
+**Links:**
+
+1. [Day 5 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-5-invoking-an-openfaas-function-asynchronously/)
+2. [OpenFaaS async](https://docs.openfaas.com/reference/async/)
+
+---
