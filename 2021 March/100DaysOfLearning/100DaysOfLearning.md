@@ -167,3 +167,20 @@ n/a today.
 2. [Amazon Web Services](https://aws.amazon.com/)
 
 ---
+
+### Day 7: 15 March 2021
+
+**Today**: Setup Python on macOS using pyenv to manage Python versions and using virtual environments to manage dependencies.
+
+**Thoughts:** Start of week 2.
+
+**Key concepts:**
+
+n/a today.
+
+**Links:**
+
+1. [Day 7 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-7-setting-up-python-using-pyenv-and-virtual-environments/)
+2. [Table Saw Safety](https://www.youtube.com/watch?v=eUx8oTIALmg)
+
+---
