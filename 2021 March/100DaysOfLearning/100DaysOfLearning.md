@@ -184,3 +184,25 @@ n/a today.
 2. [Table Saw Safety](https://www.youtube.com/watch?v=eUx8oTIALmg)
 
 ---
+
+### Day 8: 16 March 2021
+
+**Today**: Swift: learned about the supplied function "dump" and #file and #line. Dived more into how I could use Flask and OpenFaaS for my legodb learning project.
+
+**Thoughts:** Did not make as much progress tonight as I would have hoped. But this is understandable because not everything is just going to click in place first time, especially since I am not just following a recipe but rather trying to learn how I can accomplish a certain project.
+
+**Key concepts:**
+
+1. Swift: I find the "if case let .someEnum(bindVar) = some.optional" syntax hard to remember.
+2. Swift has a "built-in" dump function.
+3. You can write a function like "func someFunc(StaticString file = #file, Int line = #line)" and thus get passed the file and line of the calling code.
+4. OpenFaaS has a template for python3-flask and this is barebones. The python3-http one gives you a lot more control and is still flask based.
+5. OpenFaaS has a template for a barebones "supply your own stuff" with a minimal Dockerfile.
+
+**Links:**
+
+1. [Build a Flask microservice with OpenFaaS](https://www.openfaas.com/blog/openfaas-flask/)
+2. [OpenFaaS Flask template](https://github.com/openfaas/python-flask-template)
+3. [Alpha Binaural Beats](https://www.youtube.com/watch?v=p2_zDvtPQ-g)
+
+---
