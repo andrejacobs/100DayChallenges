@@ -206,3 +206,25 @@ n/a today.
 3. [Alpha Binaural Beats](https://www.youtube.com/watch?v=p2_zDvtPQ-g)
 
 ---
+
+### Day 9: 17 March 2021
+
+**Today**: Explored a bit more of how the faas-cli templates work. Got a bare bones mocked API for my legodb project.
+
+**Thoughts:** Stay focussed on the goal and not get distracted.
+
+**Key concepts:**
+
+1. The templates is instrumental during the faas-cli build step.
+2. The non-core templates must be pulled to your local dir first: faas-cli template store pull python3-flask.
+3. faas-cli up is a combination of build, push and deploy.
+4. Functions can be removed with: faas-cli remove FUNCTION_NAME.
+5. Be careful of programmer traps. Especially when the goal is to learn and not build new shinies.
+
+**Links:**
+
+1. [Day 8 & 9 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-8-9-first-pass-of-the-lego-database-api/)
+2. [Free: New Serverless on Kubernetes Course by the LinuxFoundation](https://www.openfaas.com/blog/introduction-to-serverless-linuxfoundation/)
+3. [Building a TODO API in Golang with Kubernetes](https://levelup.gitconnected.com/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029)
+
+---
