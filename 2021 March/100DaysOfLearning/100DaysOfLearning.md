@@ -228,3 +228,25 @@ n/a today.
 3. [Building a TODO API in Golang with Kubernetes](https://levelup.gitconnected.com/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029)
 
 ---
+
+### Day 10: 18 March 2021
+
+**Today**: Managed to install mariadb connector and dependencies locally as well as being able to connect to the Amazon RDS instance.
+
+**Thoughts:** Tried to get the mariadb-connector-c to install during faas-cli up but it doesn't look like it is being picked up by the pip install mariadb during the docker build.
+
+**Key concepts:**
+
+1. There is now a mariadb connector for Python (You had to use the MySQL one before).
+2. The Python package requires the mariadb-connector-c library.
+3. The Dockerfile from the python3-http template has the following ARG ADDITIONAL_PACKAGE.
+4. Which means that from your yaml file you can supply extra pacakges to be installed:
+
+		build_args:
+	      ADDITIONAL_PACKAGE: mariadb-connector-c
+
+**Links:**
+
+n/a
+
+---
