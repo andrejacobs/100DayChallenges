@@ -250,3 +250,24 @@ n/a today.
 n/a
 
 ---
+
+### Day 11: 19 March 2021
+
+**Today**: Continued adding MariaDB support to my OpenFaaS function. Learned about Swift 5's string interpolation.
+
+**Thoughts:** It is nice that there is an OpenFaaS Slack channel and you can get help when you get stuck.
+
+**Key concepts:**
+
+1. The template.yml contains a section build_options that can be used to install system packages (sort of like apt).
+2. Use "faas-cli up --build-option dev" to install the extra packages like mariadb-connector-c.
+3. Swift 5: ExpressibleByStringLiteral & ExpressibleByStringInterpolation allow you to add your own custom string interpolation.
+
+**Links:**
+
+1. [Day 10 & 11 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-10-11-connecting-to-mariadb-from-python-and-openfaas/)
+2. [OpenFaaS build_options](https://docs.openfaas.com/cli/build/)
+3. [OpenFaaS community](https://docs.openfaas.com/community/)
+4. [Programming Idioms](https://programming-idioms.org/)
+
+---
