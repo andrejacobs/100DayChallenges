@@ -271,3 +271,29 @@ n/a
 4. [Programming Idioms](https://programming-idioms.org/)
 
 ---
+
+### Day 12: 20 March 2021
+
+**Today**: Learned about using SQLAlchemy as an ORM. Managed to get all the Lego sets and create new ones.
+
+**Thoughts:** Today felt like a win.
+
+**Key concepts:**
+
+1. Use faas-cli logs, you can also --tail
+2. SQLAlchemy: create_engine("mariadb+mariadbconnector://user:pass@some_mariadb:port/dbname?charset=utf8mb4")
+3. Relative (.) Python import: from .models import LegoSet
+4. To get the generated ID:
+
+		session.add(legoset)
+		session.commit()
+		session.refresh(legoset)
+		newID = legoset.id
+		
+**Links:**
+
+1. [Day 12 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-12-using-sqlalchemy-as-an-orm-for-our-lego-database/)
+2. [SQLAlchemy tutorial](https://www.pythoncentral.io/overview-sqlalchemys-expression-language-orm-queries/)
+3. [OpenFaaS example of relative import](https://www.openfaas.com/blog/multifile-python-functions/)
+
+---
