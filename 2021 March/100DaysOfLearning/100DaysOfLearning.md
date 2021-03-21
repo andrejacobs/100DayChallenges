@@ -297,3 +297,26 @@ n/a
 3. [OpenFaaS example of relative import](https://www.openfaas.com/blog/multifile-python-functions/)
 
 ---
+
+### Day 13: 21 March 2021
+
+**Today**: I want to add code syntax highlighting to my blog so I learned about highlight.js. Also I am having to dust off how I run WordPress locally for theme / plugin development.
+
+**Thoughts:** I have now done 14 days of Learning. I am feeling pretty good about it.
+
+My Docker setup I use for running local WordPress (which I have not touched since 2019) no longer works as expected.
+So I diving deep in resetting all this up. To make matter worst is I have run into issues with gulp, npm and dependencies. Haha this is probably more of a reason to run more things in Docker containers.
+
+**Key concepts:**
+
+1. The Markdown I export from Notion and then import into WordPress specifies code blocks using <pre><code class="language-python"> style tags.
+2. Highlight.js can pickup this at rendering time and apply syntax highlighting.
+3. Docker Volumes is the correct approach for storing data in a way that it can be restored when spinning up containers.
+
+**Links:**
+
+1. [highlight.js](https://highlightjs.org/)
+2. [Docker Volumes](https://docs.docker.com/storage/volumes/)
+3. [Official Docker compose and WordPress](https://docs.docker.com/compose/wordpress/)
+
+---
