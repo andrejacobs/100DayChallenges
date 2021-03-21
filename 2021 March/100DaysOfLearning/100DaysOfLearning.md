@@ -309,7 +309,7 @@ So I diving deep in resetting all this up. To make matter worst is I have run in
 
 **Key concepts:**
 
-1. The Markdown I export from Notion and then import into WordPress specifies code blocks using <pre><code class="language-python"> style tags.
+1. The Markdown I export from Notion and then import into WordPress specifies code blocks using \<pre>\<code class="language-python"> style tags.
 2. Highlight.js can pickup this at rendering time and apply syntax highlighting.
 3. Docker Volumes is the correct approach for storing data in a way that it can be restored when spinning up containers.
 
