@@ -320,3 +320,21 @@ So I diving deep in resetting all this up. To make matter worst is I have run in
 3. [Official Docker compose and WordPress](https://docs.docker.com/compose/wordpress/)
 
 ---
+
+### Day 14: 8 March 2021
+
+**Today**: Managed to get syntax highlighting working on my blog.
+
+**Thoughts:** I really need to invest some more time in learning Docker so that I can use it to "freeze" a develop environment and that in theory I can just spin up containers in the future and everything "should" just work out of the box.
+
+**Key concepts:**
+
+Most of the key concepts was discovered yesterday.
+
+**Links:**
+
+1. [Day 13 & 14 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-13-14-running-wordpress-locally-using-docker-and-using-highlight-js/)
+2. [highlight.js](https://highlightjs.org/)
+3. [highlight.js demo](https://highlightjs.org/static/demo/)
+
+---
