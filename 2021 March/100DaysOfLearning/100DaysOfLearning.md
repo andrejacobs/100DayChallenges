@@ -367,3 +367,25 @@ Python related:
 6. [Celery task queue](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)
 
 ---
+
+### Day 16: 24 March 2021
+
+**Today**: Started learning about sqlalchemy-imageattach and alembic
+
+**Thoughts:** I would have loved to have made more progress by now but got disctracted by new shiny objects.
+Instead of just deleting the existing database and letting the ORM create the "updated" schema, I want to use a tool or something that can handle these changes to my models. Guess I got a bit spoiled by Django's tools.
+
+However I did discover that the creators of SQLAlchemy created a tool called alembic.
+
+**Key concepts:**
+ 
+1. faasd stores the secrets at: /var/lib/faasd-provider/secrets and it is then binded to /var/openfaas/secrets for the function containers.
+2. alembic can be used to manage database migrations of a SQLAlchemy database.
+3. Swift: CRLF "\r\n" is treated as a single Unicode character. for c in string ... c == "\r\n"
+
+**Links:**
+
+1. [alembic](https://alembic.sqlalchemy.org/en/latest/)
+2. [sqlalchemy-imageattach](https://sqlalchemy-imageattach.readthedocs.io/en/1.1.0/guide/declare.html)
+
+---
