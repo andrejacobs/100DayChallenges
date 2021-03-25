@@ -389,3 +389,23 @@ However I did discover that the creators of SQLAlchemy created a tool called ale
 2. [sqlalchemy-imageattach](https://sqlalchemy-imageattach.readthedocs.io/en/1.1.0/guide/declare.html)
 
 ---
+
+### Day 17: 25 March 2021
+
+**Today**: Alembic and SQLAlchemy-ImageAttach turned out be a bust for me at this time. Instead I have switched gears and will be just storing the file path in the database once the image has been downloaded.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. SQLAlchemy you can use .filter(Class.property.is_(None)) to check for NULLs.
+2. You can also do the invert is_not().
+3. To do an AND use and_ to combine expressions.
+
+**Links:**
+
+1. [Day 15,16 & 17 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-15-16-17/)
+2. [Mako Templates for Python](https://www.makotemplates.org/)
+3. [SO - Python Imports](https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time)
+
+---
