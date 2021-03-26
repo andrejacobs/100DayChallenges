@@ -90,3 +90,28 @@ However I did discover that the creators of SQLAlchemy created a tool called ale
 3. [SO - Python Imports](https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time)
 
 ---
+
+### Day 18: 26 March 2021
+
+**Today**: Today I managed to enable SSH on Home Assistant. I also managed to migrate my Home Assistant setup over to an external SSD via USB connected to the Raspberry Pi 3B.
+
+**Thoughts:** I have been meaning to learn how to boot a Raspberry Pi of a SSD via USB for some time now and am glad I managed to do it today.
+
+**Key concepts:**
+
+1. SSH is disabled / non existent by default on Home Assitant OS. You need to install an add-on for it.
+2. That weird ascii art you see during RSA key pair generation is called randomart.
+3. -o VisualHostKey=yes to see randomart when you connect to SSH servers.
+4. It is easy to make backups by taking snapshots of Home Assistant.
+5. The snapshots live at /backup.
+6. Raspberry Pi need you to enable USB host boot mode. I don't think you need this for Pi >= 4.
+7. program_usb_boot_mode=1 -> config.txt to enable this.
+8. To enable SSH on a fresh Pi SD install, create a file named ssh on the /boot portion.
+
+**Links:**
+
+1. [Day 18 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-18-setup-raspberry-pi-to-boot-of-a-ssd-via-usb-for-home-assistant/)
+2. [Enable SSH in Home Assistant](https://andrejacobs.org/home-automation/home-automation-enable-ssh-on-home-assistant/)
+3. [SSH randomart](https://superuser.com/questions/22535/what-is-randomart-produced-by-ssh-keygen)
+
+---
