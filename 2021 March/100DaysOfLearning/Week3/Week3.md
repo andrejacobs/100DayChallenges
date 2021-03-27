@@ -115,3 +115,27 @@ However I did discover that the creators of SQLAlchemy created a tool called ale
 3. [SSH randomart](https://superuser.com/questions/22535/what-is-randomart-produced-by-ssh-keygen)
 
 ---
+
+### Day 19: 27 March 2021
+
+**Today**: Learned how to install Redis on faasd and run a task queue using RQ.
+
+**Thoughts:** I am quite chuffed that there was no hickups today in exploring new frameworks like RQ or running Redis on faasd.
+
+**Key concepts:**
+
+1. Redis is an in-memory data structure store, used as a database, cache, and message broker.
+2. RQ can be used as a task queue system against Redis.
+3. It is super easy to use!
+4. Non existent tasks can be enqueued. Nothing will blow up (or work).
+5. The worker will quit if it can't connect to Redis (or connection is lost).
+6. Tasks can be enqueued even if there are no running workers at that time.
+
+**Links:**
+
+1. [Day 19 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-19-installing-redis-on-faasd-and-using-python-rq-as-a-task-queue/)
+2. [Flask Mega Tutorial - Background Jobs](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxii-background-jobs)
+3. [Python RQ](https://python-rq.org/)
+4. [Python Redis tutorial](https://realpython.com/python-redis/)
+
+---
