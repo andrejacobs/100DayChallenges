@@ -139,3 +139,26 @@ However I did discover that the creators of SQLAlchemy created a tool called ale
 4. [Python Redis tutorial](https://realpython.com/python-redis/)
 
 ---
+
+### Day 20: 28 March 2021
+
+**Today**: Continued working on adding background task support to the Lego database learning project.
+
+**Thoughts:** I have completed week 3 and not missed a single day of learning!
+
+**Key concepts:**
+
+1. Python: You can set an environment variable with
+   os.environ['queue-name'] = 'johnny5'
+
+2. Query...count is super slow on SQLAlchemy + MySQL/MariaDB.
+3. Python variable args can be passed onto another function that takes variable args like this
+
+		def perform(function, *args):
+		    function(*args)
+
+**Links:**
+
+1. [Faster SQLAlchemy count](https://gist.github.com/hest/8798884)
+
+---
