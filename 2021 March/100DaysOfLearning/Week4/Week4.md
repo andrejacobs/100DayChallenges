@@ -22,3 +22,27 @@ I did however learn a lot and also what not to do when combining OpenFaaS and ta
 1. [Day 20 & 21 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-20-21-you-win-some-you-lose-some/)
 
 ---
+
+### Day 22: 30 March 2021
+
+**Today**: Started learning just how exactly Python module loading works.
+
+**Thoughts:** The loading process is not as clear cut as you would think. Seems this trips up even some of the more experienced Python coders when they let their guard down.
+
+**Key concepts:**
+
+1. A module is any .py source code file.
+2. A package can be any directory.
+3. A package needed a `__init__.py` before Python 3.3
+4. The name of the module first loaded and executed by the Python interpreter will be set to `__main__` regardless of what the module’s actual file name is.
+5. python example.py and python -m example does not do the exact same thing!
+6. `__package__` contains the name of the package the module belongs too.
+7. All code in `__init__.py` will be executed when a package is imported.
+
+**Links:**
+
+1. [Day 22 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-22-understanding-the-python-importing-process/)
+2. [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
+3. [Python docs](https://docs.python.org/3/reference/import.html)
+
+---
