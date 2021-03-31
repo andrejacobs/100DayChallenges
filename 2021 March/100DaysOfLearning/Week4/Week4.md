@@ -46,3 +46,25 @@ I did however learn a lot and also what not to do when combining OpenFaaS and ta
 3. [Python docs](https://docs.python.org/3/reference/import.html)
 
 ---
+
+### Day 23: 31 March 2021
+
+**Today**: Explored a bit more on how the Python importing process works.
+
+**Thoughts:** Unrelated to the learning process, but today we received a shocking phone call from nursery to tell us that our 1.5 year old daughter managed to escape nursery! Luckilly nothing happened to her.
+
+**Key concepts:**
+
+1. Stop thinking about where Python files are located. It is all about how the system searches and loads modules.
+2. Python imports are case-sensitive. import koos != import Koos
+3. sys.path is mega important.
+4. When a script is run (python module.py) then sys.path[0] is the directory that contains the script. I.e. not the current working directory.
+5. sys.path is shared across all the imported modules.
+6. sys.path can be modified.
+7. Built-in modules are found first and then sys.path is consulted.
+
+**Links:**
+
+1. [Day 23 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-23-more-exploring-of-the-python-importing-process/)
+
+---
