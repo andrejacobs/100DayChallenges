@@ -68,3 +68,25 @@ I did however learn a lot and also what not to do when combining OpenFaaS and ta
 1. [Day 23 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-23-more-exploring-of-the-python-importing-process/)
 
 ---
+
+### Day 24: 1 April 2021
+
+**Today**: Wrapping up my current journey of understanding the Python importing process.
+
+**Thoughts:** Happy April Fools day
+
+**Key concepts:**
+
+1. pkgutil.iter_modules can be used to find all available modules.
+2. Absolute imports are preferred over relative imports.
+3. Absolute imports uses the full path from the project's root directory to the module to be imported.
+4. Relative imports uses the relative path from the current module to the module to be imported.
+
+**Links:**
+
+1. [Day 24 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-24-wrapping-up-on-the-python-importing-process/)
+2. [Real Python tutorial](https://realpython.com/python-modules-packages/)
+3. [Real Python advanced tutorial](https://realpython.com/python-import/)
+4. [Check if a module has been imported](https://stackoverflow.com/questions/30483246/how-to-check-if-a-python-module-has-been-imported)
+
+---
