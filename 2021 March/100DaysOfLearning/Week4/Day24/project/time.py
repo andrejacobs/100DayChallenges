@@ -1,0 +1,2 @@
+#time.py
+print('THIS SHOULD NOT BE IMPORTED')
