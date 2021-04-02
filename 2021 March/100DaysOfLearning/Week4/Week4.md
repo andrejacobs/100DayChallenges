@@ -90,3 +90,28 @@ I did however learn a lot and also what not to do when combining OpenFaaS and ta
 4. [Check if a module has been imported](https://stackoverflow.com/questions/30483246/how-to-check-if-a-python-module-has-been-imported)
 
 ---
+
+### Day 25: 2 April 2021
+
+**Today**: Watched a stream about containers on arm from Alex Ellis and Bret Fisher. Also watched the creator of php talk about 25 years of php.
+
+**Thoughts:** ARM is everywhere now and v9 is going to be worth keeping an eye on.
+
+Php propped up on the intowebs this week because of the supply chain attack to their git repo. Somehow I came across the creator's talk about the last 25 years of php.
+
+A lot of people have a hate for php, but they got to realize that probably most of the modern web would not be what we have now if it was not for php. I built my first website in 1996 using just html and I still recall having fond memories when I later discovered php. Also at the time the nearest competitor was ASP 1 and that just totally sucked!
+
+I still dabble in php on the very odd occassion and that would mainly be for WordPress.
+
+**Key concepts:**
+
+1. Some times you just got to build the software that you would like to have.
+2. But don't for one moment think that it means there is a market and you are going to get rich of it.
+
+**Links:**
+
+1. [25 years of php](https://www.youtube.com/watch?v=wCZ5TJCBWMg&t=1748s)
+2. [Containers on arm platforms with Alex Ellis: DevOps and Docker Live Show (Ep 118)](https://www.youtube.com/watch?v=xBl67nmrTOI&t=3s)
+3. [Bret Fisher's courses](https://www.bretfisher.com/courses/)
+
+---
