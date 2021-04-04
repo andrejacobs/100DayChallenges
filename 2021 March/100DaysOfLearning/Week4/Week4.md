@@ -115,3 +115,23 @@ I still dabble in php on the very odd occassion and that would mainly be for Wor
 3. [Bret Fisher's courses](https://www.bretfisher.com/courses/)
 
 ---
+
+### Day 26: 3 April 2021
+
+**Today**: Today I setup a headless Raspberry Pi Zero W.
+
+**Thoughts:** Turns out today is my first public contribution to [open source](https://github.com/joemasilotti/HTTP-Client).
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+1. [Day 26 blog post](https://andrejacobs.org/100-days-challenge/setting-up-a-headless-raspberry-pi-zero-w-with-raspberry-pi-os-lite/)
+2. [Build a Timelapse Rig with your Raspberry Pi](https://blog.alexellis.io/raspberry-pi-timelapse/)
+3. [Phototimer software](https://github.com/alexellis/phototimer)
+4. [Pimoroni Headless Pi](https://learn.pimoroni.com/tutorial/sandyj/setting-up-a-headless-pi)
+5. [First public open source contribution](https://twitter.com/joemasilotti/status/1378356813159010315)
+
+---
