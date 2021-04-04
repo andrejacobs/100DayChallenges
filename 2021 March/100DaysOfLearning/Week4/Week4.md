@@ -135,3 +135,27 @@ n/a
 5. [First public open source contribution](https://twitter.com/joemasilotti/status/1378356813159010315)
 
 ---
+
+### Day 27: 4 April 2021
+
+**Today**: Learning about different hydroponic techniques.
+
+**Thoughts:** I have now done 1 month of Learning every day!
+
+**Key concepts:**
+
+1. Aquaponics is the combination of aquaculture (fish) and Hydroponics.
+2. NFT (Nutrient Film Technique) is the more classic hydroponics that come to mind. The nutrient water is run in a channel with a slight slope and the plants "float" on top of the nutrien film.
+3. DWC (Deep Water Culture). A container filled with the nutrient water and an airstone placed inside. The roots are submerged in the water.
+4. Ebb and Flow. The plants are placed in a medium (clay pebbles, coco etc.) and the container is flooded a few times during the day with the nutrient water and then allowed to drain back to the reservoir.
+5. Drip system. The nutrient water is pumped to the plants and dripped at a constant rate into the plant containers and then drains back to the reservoir.
+6. Aeroponics. Almost the same as DWC, but the nutrient water is sprayed / misted at the top where the roots are.
+7. Kratky method. Plants in a jar with nutrient water, simples.
+8. Dutch Bucket System. Basically the drip system.
+
+**Links:**
+
+1. [Different types hydroponics systems](https://www.nosoilsolutions.com/6-different-types-hydroponic-systems/)
+2. [Dutch bucket for indoors](https://momsindoorgarden.com/2019/06/18/dutch-bucket-for-indoor-vegetable/)
+
+---
