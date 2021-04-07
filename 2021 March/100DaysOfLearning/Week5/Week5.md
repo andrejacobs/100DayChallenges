@@ -53,3 +53,46 @@ Must admit, I never liked Auto Layout and never will. I did have to embrace it t
 3. [SwiftUI Data Flow](https://kean.blog/post/swiftui-data-flow)
 
 ---
+
+### Day 30: 7 April 2021
+
+**Today**: Continuing to learn Combine from the Practical Combine book.
+
+**Thoughts:** Today was a tough day on the "9 to 5".
+
+**Key concepts:**
+
+1. A Publisher will not emit any values if it does not have any Subscribers that are willing to receive values. This is known as `backpressure management`
+2. `AnyCancellable` will unsubscribe the Subscriber from the Publisher on deallocation.
+3. `sink` and `assign` return `AnyCancellable`.
+4. You can hold on to the reference with a single property:
+
+		var subscription: AnyCancellable?
+		...
+		subscription = <publisher>.sink(...)
+		
+5. Or by storing them in a set:
+
+		var subscribers = Set<AnyCancellable>()
+		...
+		<publisher>.sink(...).store(in: &subscribers)
+6. Publishers can only complete or fail once.
+7. It is common to avoid processing or manipulating data in a Subscriber. Instead transform or filter the Publisher.
+		
+		.publisher.map({ value in
+			return newTypeOrValue
+		}).sink(receiveValue: { newTypeOrValue in ... })
+8. Calling map on a collection results in a new collection. Calling map on a Publisher results in a new Publisher.
+8. An `operator` is a function that wraps a Publisher into another Publisher.
+9. Reminder: compactMap is like map except that it also filters out nil values.
+10. Combine's compactMap does the same thing for Publisher values.
+11. There is also replaceNil(with:<default>) that can be used to swap nil values with the specified default value.
+12. flatMap is used to flatten array of arrays into a single array with the elements from the nested arrays.
+13. Combine flatMap is used to flatten a Publisher that produces more Publishers.
+14. setFailureType can be used to change the Failure type of a Publisher to another type.
+
+**Links:**
+
+1. [Practical Combine](https://practicalcombine.com/)
+
+---
