@@ -96,3 +96,45 @@ Must admit, I never liked Auto Layout and never will. I did have to embrace it t
 1. [Practical Combine](https://practicalcombine.com/)
 
 ---
+
+### Day 31: 8 April 2021
+
+**Today**: Finished chapter 3 & 4 from Practical Combine.
+
+**Thoughts:** I am liking Combine so far.
+
+**Key concepts:**
+
+1. Combine has a number of operators prefixed with `try` (e.g. tryMap) that allows the Publisher to throw an error.
+2. Reminder: A Publisher is allowed to throw an error only once, after which it can no longer emit new values.
+3. You can check for iOS version: if #available(iOS 14, *).
+4. All operators are defined as an extension on Publisher.
+
+		extension Publisher where Output == Int, Failure == Never {
+			func myNewOperator(someArgs...) -> AnyPublisher<NewOutputType, NewErrorType> {
+				return somePublisherOrSelf
+					.eraseToAnyPublisher()
+			}
+		}
+		
+5. `eraseToAnyPublisher` is used to remove all type information from a Publisher and wrap it as AnyPublisher. Basically it removes crud while composing new operators.
+6. A `subject` is a Publisher that allows you (the developer) to inject values into its stream.
+7. Combine subjects have a send(_:) method to inject values and a send(completion:) to complete the Publisher.
+8. `PassthroughSubject` is used to emit values from imperative code that does not hold state. Good fit for emitting events.
+9. `PassthroughSubject` does not hold on to any values sent in the past.
+10. `CurrentValueSubject` can be used to hold onto some state. It has a `.value` property and when this is changed all Subscribers will be notified.
+11. `CurrentValueSubject` will also emit its current value to any new Subscribers.
+12. `@Published` property wrapper is almost like CurrentValueSubject but makes the code cleaner. The big difference is that @Published will emits its underlying value first to its Subscribers and then update the value, whereas CurrentValueSubject will update the underlying value first and then pulish to Subscribers.
+
+		@Published var myVar = 42
+		myVar = 201
+		$myVar.sink(...)
+		
+13. In order to subscribe to the Publisher for a @Published property, you need to access the projected value (the Publisher) using the $ syntax.
+14. @Published is only available to Classes. CurrentValueSubject is available to Structs and Classes.
+
+**Links:**
+
+1. [Practical Combine](https://practicalcombine.com/)
+
+---
