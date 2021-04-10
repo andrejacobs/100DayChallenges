@@ -138,3 +138,31 @@ Must admit, I never liked Auto Layout and never will. I did have to embrace it t
 1. [Practical Combine](https://practicalcombine.com/)
 
 ---
+
+### Day 32: 9 April 2021
+
+**Today**: Started on Chapter 5 of Practical Combine. Received some more goodies from Pimoroni and will be testing those out.
+
+**Thoughts:** TGIF
+
+**Key concepts:**
+
+1. Combine doesn't come with good built-in support for UIKit, guess the future truly is SwiftUI.
+2. NSObject has a "publisher(for:)" to subscribe to KVO changes. However UIControl is not KVO compliant and thus this won't work for controls like sliders.
+3. In SwiftUI binding of UI to state can be achieved with the `@State` property wrapper.
+
+		struct MyView: View {
+			@State private var sliderValue: Float = 42
+			var body: some View {
+				VStack {
+					Text("Slider value: \(sliderValue)")
+					Slider(value: $sliderValue, in: (1...100))
+				}
+			...
+
+
+**Links:**
+
+1. [Practical Combine](https://practicalcombine.com/)
+
+---
