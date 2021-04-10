@@ -166,3 +166,21 @@ Must admit, I never liked Auto Layout and never will. I did have to embrace it t
 1. [Practical Combine](https://practicalcombine.com/)
 
 ---
+
+### Day 33: 10 April 2021
+
+**Today**: Today I managed to setup a test rig for pumping water with the Pimoroni Grow HAT Mini and the small water pumps.
+
+**Thoughts:** I can't wait to get a full setup up and running and growing some plants with it.
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+1. [Day 33 blog post](https://andrejacobs.org/100-days-challenge/100-days-of-learning-day-33-pumping-water-with-the-pimoroni-grow-hat-mini/
+)
+2. [Short video showing the test rig pumping water](https://youtu.be/piwJtW7JQUA)
+
+---
