@@ -184,3 +184,46 @@ n/a
 2. [Short video showing the test rig pumping water](https://youtu.be/piwJtW7JQUA)
 
 ---
+
+### Day 34: 11 April 2021
+
+**Today**: Finished Chapter 5 of Practical Combine.
+
+**Thoughts:** Donny had a really good example in the book and source code for how to debounce a search query.
+
+**Week 5 completed!**
+
+**Key concepts:**
+
+1. Using 300ms to debounce user input seems to be a common value used.
+2. Combine comes with a built-in `debounce` operator. This will limit a publisher's output by ignoring values that are emitted to quickly in succession.
+
+		$searchQuery.debounce(for: 0.3, scheduler: DispatchQueue.main)
+
+3. Combine also has a `removeDuplicates` operator. This will remove values from the stream if the same value is being emitted.
+4. Debouncing a search query (that talks to an API / database).
+
+		@Published var searchQuery: String?
+		
+		// Must have at least 2 characters, wait 300ms between events and remove duplicates (i.e. type, then delete)
+		$searchQuery.debounce(for: 0.3, scheduler: DispatchQueue.main)
+			.filter({ ($0 ?? "").count > 2 })
+			.removeDuplicates()
+			.<do_something_here>
+			.store(in: &cancellables)
+
+5. To merge Publishers you can use `Publisher.Zip`, `Publisher.Merge` & `Publisher.CombineLatest`.
+6. Publisher.Zip takes two Publishers and Zips (like your Jacket zipper) the emitted values together.
+7. There are variants like Zip3, Zip4 etc. that takes 3+ Publishers. NOTE: Capped at 4 for timebeing.
+8. Publisher.Zip emits tuples. Both Publishers must have emitted a value before Zip will emit a zipped tuple (valueFromPub1, valueFromPub2)
+9. There is also a `.zip(with:)` operator. E.g `firstPub.zip(with: secondPub)`
+10. Publisher.Merge (upto Merge8 or MergeMany) will emit a new value anytime any of the merged Publishers emit a value.
+11. However all Publishers for merge must have the same Output and Failure type.
+11. Again there is also a `.merge(with:)` operator.
+12. Publisher.CombineLatest (variants CombineLatest3 and CombineLatest4) emits tuples whenever any of the Publishers emit a new value. NOTE: It only starts emitting once all Publishers have emitted at least 1 value each).
+
+**Links:**
+
+1. [Practical Combine](https://practicalcombine.com/)
+
+---
