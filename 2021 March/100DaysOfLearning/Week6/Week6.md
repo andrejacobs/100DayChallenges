@@ -44,3 +44,45 @@
 1. [Apple docs allowsExpensiveNetworkAccess](https://developer.apple.com/documentation/foundation/nsurlsessionconfiguration/3235752-allowsexpensivenetworkaccess)
 
 ---
+
+### Day 37: 14 April 2021
+
+**Today**: Started on Chapter 7 of Practical Combine.
+
+**Thoughts:** I like that Combine comes with Futures & Promises and I no longer have to use other frameworks for this.
+
+**Key concepts:**
+
+1. You can create custom Publishers in the form of Subject objects like CurrentValueSubject and PassthroughSubject.
+2. Combine can also do `Future`s and `Promise`s.
+3. A Future is a Publisher that will emit a single value and complete immediately.
+4. It can never emit more than one value.
+5. Recap: Swift introduced a Result generic type. `@frozen enum Result<Success, Failure> where Failure : Error`
+6. Example creation of a Future
+
+		func createFuture() -> Future<Int, Never> {
+			return Future { promise in
+				promise(.success(42))
+			}
+		}
+
+		Output: Int
+		Failure: Never
+		
+		Future's init takes a closure that is
+		passed a Promise
+		
+		Future has:
+		typealias Promise = (Result<Output, Failure>) -> Void
+		
+7. Thus a Future takes a closure param at init, which in turn will be passed a Promise closure, which will be called in the future with a Result. Where the Result's Success type must match the Future's Output type and the Result's Failure must match the Future's Failure type. <-- Did you get all that? It is a lot to unpack.
+8. Recap: Publishers will not do any work unless there are Subscribers.
+9. Futures on the other hand will execute the work as soon as they are created.
+10. However they will emit the same result to every subscriber being added. Thus do the work once and report many.
+11. You can wrap a Future in a Deferred publisher and thus the Future will behave like a "normal" publisher. I.e. Only do work when there are publishers and also do the work for each subscriber.
+	
+**Links:**
+
+1. [Swift docs for @frozen etc.](https://docs.swift.org/swift-book/ReferenceManual/Attributes.html)
+
+---
