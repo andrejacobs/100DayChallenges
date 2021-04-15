@@ -86,3 +86,25 @@
 1. [Swift docs for @frozen etc.](https://docs.swift.org/swift-book/ReferenceManual/Attributes.html)
 
 ---
+
+### Day 38: 15 April 2021
+
+**Today**: Finished Chapter 7 & 8 of Practical Combine
+
+**Thoughts:** Paragraph or two
+
+**Key concepts:**
+
+1. Practical Combine Ch7 has a nice example of asking for permission to use notifications as well as an example of wrapping Core Data fetches in a Future.
+2. Combine has a `receive(on:)` operator that you can use to specify on which Scheduler to receive the values on.
+3. The `Scheduler` protocol is conformed by `DispatchQueue`, `OperationQueue` and `RunLoop`.
+4. There is also `ImmediateScheduler` that will perform any work immediately and can't be delayed.
+5. Combine expects schedulers to operate on a serial queue.
+6. The default scheduler will emit values on the thread they were generated on.
+7. Combine also has a `subscribe(on:)` operator that you use to specify on which Scheduler subscribers are registered with the publisher.
+
+**Links:**
+
+1. [Practical Combine](https://practicalcombine.com/)
+
+---
