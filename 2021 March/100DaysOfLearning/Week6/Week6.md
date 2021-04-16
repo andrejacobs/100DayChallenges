@@ -108,3 +108,26 @@
 1. [Practical Combine](https://practicalcombine.com/)
 
 ---
+
+### Day 39: 16 April 2021
+
+**Today**: Finished Chapter 9 of Practical Combine
+
+**Thoughts:** I am strugling tonight to download information into my brain. TGIF.
+
+**Key concepts:**
+
+1. It is recommended that you don't write your own custom Publishers and Subscribers unless you really need to.
+2. In Combine the subscribers are in charge of how many values they want to receive.
+3. A Subscriber is handed a `Subscription` object via the `receive(subscription:)` method.
+4. Backpressure is managed via this subscription object.
+
+		func receive(subscription: Subscription) {
+			subscription.request(.max(1))
+			...
+
+**Links:**
+
+n/a
+
+---
