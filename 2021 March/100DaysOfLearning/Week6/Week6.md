@@ -131,3 +131,22 @@
 n/a
 
 ---
+
+### Day 40: 17 April 2021
+
+**Today**: Going to try kratky method using "upcycled" juice / soya cartons. Project for the kids. Continued building my mobile bench.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. Don't put your seedling propagators in direct sun.
+2. Managed to brief life back in the mustard seedlings by giving them water and moving them out of direct sun light.
+3. Always support your work and offcut pieces when cutting with any power tool.
+4. For future refence: Given the kerf of my Erbauer track saw. When cutting on the waste side, use the T-ruler and add 2mm and 3 holes down ( + 0.75mm)
+
+**Links:**
+
+1. [Basil Jungle](https://www.youtube.com/watch?v=umfM3ZAI6fA)
+
+---
