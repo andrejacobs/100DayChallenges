@@ -150,3 +150,22 @@ n/a
 1. [Basil Jungle](https://www.youtube.com/watch?v=umfM3ZAI6fA)
 
 ---
+
+### Day 41: 18 April 2021
+
+**Today**: Finished Chapter 10 of Practical Combine. Continued with the mobile bench build. Managed to get the full cut list finished.
+
+**Thoughts:** It has been a good weekend with good weather and I managed to work on a couple of projects.
+
+**Week 6 complete**
+
+**Key concepts:**
+
+1. Combine has a `print` operator to help debug what a publisher is doing.
+2. Timelane is free open source tool for debugging combine.
+
+**Links:**
+
+1. [Timelane](https://github.com/icanzilb/Timelane/tree/2.0)
+
+---
