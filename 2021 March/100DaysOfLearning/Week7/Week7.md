@@ -20,3 +20,19 @@
 1. [Figma](https://www.figma.com/)
 
 ---
+
+### Day 43: 19 April 2021
+
+**Today**: Finished Chapter 11 of Practical Combine.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. Combine has a `handleEvents` operator that allows you to hook into every part of a Publisher's lifecycle.
+
+**Links:**
+
+n/a
+
+---
