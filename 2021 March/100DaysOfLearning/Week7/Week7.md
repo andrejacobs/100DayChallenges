@@ -60,9 +60,35 @@ n/a
 
 **Links:**
 
-1. [Book about X](http://www.example.com)
+1. [Design + Code](http://designcode.io)
 2. [Apple Design Resources](https://developer.apple.com/design/resources/)
 3. [Free icons and art](https://shape.so/)
 4. [Design reference](https://mobbin.design/)
+
+---
+
+### Day 45: 22 April 2021
+
+**Today**: More of "UI Design for Developers" course. Today learned about Colours, Gradients, Backgrounds, Strokes and Blobs.
+
+**Thoughts:** Paragraph or two
+
+**Key concepts:**
+
+1. Use monochromatic colours as the Primary.
+2. Complementary colour is almost at the opposite site of the spectrum of a Primary colour.
+3. Analogous colour is next to the Primary colour.
+4. You can copy and paste properties from and onto elements. You can also copy just a single property. Select it and the row should turn blue in the inspector.
+5. The community plugins `Blobs` and `Looper` is quite handy.
+6. `⌘ /` Search for commands, menus and plugins.
+7. `⌘ [ or ]` sends selection to the back or front.
+
+**Links:**
+
+1. [Book about X](http://www.example.com)
+2. [Material Design - Colours](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
+3. [Apple HIG - Colours](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/)
+4. [coolors](https://coolors.co/)
+5. [Very handy tool from Material Design](https://material.io/resources/color/#!/?view.left=0&view.right=0)
 
 ---
