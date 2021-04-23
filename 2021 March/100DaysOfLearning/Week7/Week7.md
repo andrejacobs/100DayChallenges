@@ -71,7 +71,7 @@ n/a
 
 **Today**: More of "UI Design for Developers" course. Today learned about Colours, Gradients, Backgrounds, Strokes and Blobs.
 
-**Thoughts:** Paragraph or two
+**Thoughts:** n/a
 
 **Key concepts:**
 
@@ -90,5 +90,24 @@ n/a
 3. [Apple HIG - Colours](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/)
 4. [coolors](https://coolors.co/)
 5. [Very handy tool from Material Design](https://material.io/resources/color/#!/?view.left=0&view.right=0)
+
+---
+
+### Day 46: 23 April 2021
+
+**Today**: Finished Practical Combine by Donny Wals. Also worked with illustrations in Figma.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+1. [Free - Using Combine book by Joseph Heck](https://heckj.github.io/swiftui-notes/)
+2. [Free - Understanding Combine by Matt Neuburg](https://www.apeth.com/UnderstandingCombine/)
+3. [Combine Triad by Donny Wals](https://www.dotconferences.com/2020/02/donny-wals-the-combine-triad)
+4. [Understanding Combine, YouTube by Daniel Steinberg](https://www.youtube.com/watch?v=iDlCU-AdXNQ)
 
 ---
