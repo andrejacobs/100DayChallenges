@@ -111,3 +111,32 @@ n/a
 4. [Understanding Combine, YouTube by Daniel Steinberg](https://www.youtube.com/watch?v=iDlCU-AdXNQ)
 
 ---
+
+### Day 47: 24 April 2021
+
+**Today**: Learning about Typography and Accessibility in Figma. Also managed to assemble 90% of the mobile work bench today.
+
+**Thoughts:** I am really enjoying DesignCode.io.
+
+**Key concepts:**
+
+1. System font for iOS, macOS and tvOS is "SF Pro"
+2. System font for watchOS is "SF Compact"
+3. Use [Roboto](https://fonts.google.com/specimen/Roboto) for Android.
+4. To access fonts on macOS. Use the "Font Book" app.
+5. Use "SF Text" for text sized less than 20 points and user "SF Display" for text larger than 20 points.
+6. SF works well with Dynamic Type on iOS.
+7. Text in general should not be more than 90 characters per line.
+8. Paragraphs with a lot of text should aim to have a line height of 130 - 140%.
+9. Figma line height of Auto is about 120%.
+10. Stark is good plugin to check contrast ratios between text and backgrounds.
+
+**Links:**
+
+1. [Design + Code](https://designcode.io/ui-design-typography-and-accessibility)
+2. [Apple fonts](https://developer.apple.com/fonts/)
+3. [Google fonts](https://fonts.google.com/)
+4. [Apple HIG - Typography](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/typography/)
+5. [Practical Typography](https://practicaltypography.com/)
+
+---
