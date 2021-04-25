@@ -140,3 +140,21 @@ n/a
 5. [Practical Typography](https://practicaltypography.com/)
 
 ---
+
+### Day 48: 25 April 2021
+
+**Today**: Had 2 lovely walks with the family today as well as cook curry paste. Learning about Auto Layout in Figma.
+
+**Thoughts:** Week 7 complete
+
+**Key concepts:**
+
+1. `⌘ g` to create a new group from the selected elements.
+2. Auto layout helps elements to resize and change dynamically.
+3. Select the group and then + on the Auto Layout section to enable it.
+
+**Links:**
+
+1. [Design+Code](https://designcode.io/ui-design-text-styles-and-buttons)
+
+---
