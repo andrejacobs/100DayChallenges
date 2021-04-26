@@ -158,3 +158,30 @@ n/a
 1. [Design+Code](https://designcode.io/ui-design-text-styles-and-buttons)
 
 ---
+
+### Day 49: 26 April 2021
+
+**Today**: Learning about the 8 point grid system and components in Figma.
+
+**Thoughts:** I am now exactly half way through the 100 days challenge.
+
+**Key concepts:**
+
+1. Good to have a minimum of 16 points between elements and the sides.
+2. Minimum of 8 points between elements.
+3. Every element's dimensions should be divisible by 8 points.
+4. In Figma you turn on a layout grid for every frame.
+5. Rulers are enabled by `⇧ r`
+6. You can create components from frames.
+7. Each copy of a component is called an instance.
+8. Changes to the component affect all instances.
+9. Instances can have customisation applied that only affect that instance. Known as overrides.
+10. You can reset an instance (thus removing the overides).
+11. Components can be located from the Assets tab.
+
+**Links:**
+
+1. [8 pt grid system](https://spec.fm/specifics/8-pt-grid)
+2. [Responsive layout system](https://material.io/design/layout/responsive-layout-grid.html)
+
+---
