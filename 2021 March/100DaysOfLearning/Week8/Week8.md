@@ -48,3 +48,24 @@
 n/a
 
 ---
+
+### Day 51: 28 April 2021
+
+**Today**: Worked through videos 14 - 17 of UI Design for Developers.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. You can change the colour of each character in text.
+2. The popular size for icons at the moment is 24 x 24 points. iOS seems to be 28 x 28 but Android is 24 x 24.
+3. Press enter to enter into vector editing mode.
+4. You can flatten unions, vectors etc. so that transforms like scale can work. You can also Outline Stroke.
+5. Figma has a Vector network that is unique to Figma and allows for powerful vector editing.
+
+**Links:**
+
+1. [Streamline icons](https://streamlineicons.com/)
+2. [Shape.so](https://shape.so/)
+
+---
