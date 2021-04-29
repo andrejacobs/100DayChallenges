@@ -69,3 +69,19 @@ n/a
 2. [Shape.so](https://shape.so/)
 
 ---
+
+### Day 52: 29 April 2021
+
+**Today**: Finished the UI Design for Developers course with a certificate!
+
+**Thoughts:** Oh yeah!
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
