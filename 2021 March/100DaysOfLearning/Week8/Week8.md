@@ -85,3 +85,26 @@ n/a
 n/a
 
 ---
+
+### Day 53: 30 April 2021
+
+**Today**: Started with the iOS Design Handbook course.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. You can decrease visual hierarchy by assigning the Primary colour and then adjusting the HSB (Hue Saturation Brightness) to have saturation of between 3 - 5 and brightness of between 90 - 100. For example imagine you have 2 buttons, 1 is assigned the Primary colour and the other button is less important.
+2. Typography - Baseline is the line on which the characters rest upon (does not include the tails of characters like g,p,q etc.)
+3. X-height the distance/space from the baseline to the "average" character height not including the ascender.
+4. Descender is the space from the baseline to the bottom of these "tails" i.e. space down to the bottom of the g or p.
+5. Ascender is the space from the x-height to the top most portions, i.e. the dot from an i etc.
+6. Kerning determines how two characters should be positioned next to each other.
+7. Line height should be between 120 - 145% of the font size.
+8. Lines should not be more than 45 - 90 characters. Depends on device screen size.
+
+**Links:**
+
+1. [iOS Design Handbook - Design+Code](https://designcode.io/ios-design-handbook)
+
+---
