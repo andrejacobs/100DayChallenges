@@ -124,3 +124,19 @@ n/a
 1. [iOS Design Handbook - Design+Code](https://designcode.io/ios-design-handbook)
 
 ---
+
+### Day 55: 2 May 2021
+
+**Today**: Worked through episodes 12 to 14 of iOS Design Handbook
+
+**Thoughts:** Week 8 complete :-D
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+1. [iOS Design Handbook - Design+Code](https://designcode.io/ios-design-handbook)
+
+---
