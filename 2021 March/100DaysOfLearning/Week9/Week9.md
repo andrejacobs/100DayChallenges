@@ -18,3 +18,19 @@
 n/a
 
 ---
+
+### Day 57: 4 May 2021
+
+**Today**: Finished the iOS Design Handbook by Design+Code. Also learned how the Button Fix type 2 connector works.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
