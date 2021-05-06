@@ -56,3 +56,51 @@ n/a
 1. [SwiftUI for iOS 14](https://designcode.io/swiftui2-course)
 
 ---
+
+### Day 59: 6 May 2021
+
+**Today**: Worked through lessons 3 to 6 of SwiftUI for iOS 14. Also started reading Building Mobile Apps at Scale by Gergely Orosz
+
+**Thoughts:** I can see what the rage is all about for SwiftUI.
+
+**Key concepts:**
+
+1. `Cmd + N` create new file from selecting a template.
+2. Xcode can now create a group and a folder from selection. Used to be "virtual" folders in the project but not on disk.
+3. Using SF Symbol icons is as easy as: `Image(systemName: "sfsymbol.icon.name")`
+4. Creating a side bar:
+
+		List {
+			...
+		}
+		.listStyle(SidebarListStyle())
+
+5. Creating a navigation view (legacy navigation bar + vc)
+	
+		NavigationView {
+			...
+			NavigationLink(destination: someOtherView()) {
+				...
+			}
+		}
+		.navigationTitle("Screen name")
+		
+6. Conditional code for iOS & iPadOS vs macOS
+
+		#if os(iOS)
+			...
+		#else
+			// macOS code
+		#endif
+		
+7. On macOS you can control the window / frame sizing
+
+		.frame(minWidth: 800, minHeight: 600)
+
+8. Toolbar allows you to place bar button items on the top or bottom. Can be placed inside a NavigationView and can contain multiple ToolbarItems
+
+**Links:**
+
+n/a
+
+---
