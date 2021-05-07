@@ -104,3 +104,20 @@ n/a
 n/a
 
 ---
+
+### Day 60: 7 May 2021
+
+**Today**: Worked through lessons 7 to 11 of SwiftUI for iOS 14.
+
+**Thoughts:** I caught a cold earlier in the week and it is at it worst so far.
+
+**Key concepts:**
+
+1. In code you can get a rendered colour in the editor by specifying `Color(lit [autocomplete chose Literal])`
+2. Y is important because of such and such
+
+**Links:**
+
+n/a
+
+---
