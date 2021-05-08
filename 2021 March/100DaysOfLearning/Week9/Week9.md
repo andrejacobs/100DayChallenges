@@ -121,3 +121,19 @@ n/a
 n/a
 
 ---
+
+### Day 61: 8 May 2021
+
+**Today**: Worked through lessons 12 to 14 of SwiftUI for iOS 14.
+
+**Thoughts:** Struggling today with coughing up flem and I have a mini fever (hot & cold flip flopping).
+
+**Key concepts:**
+
+1. LazyVGrid & LazyHGrid can be used to have an adaptive layout. Where the rows and columns will adapt based on content and screen size.
+
+**Links:**
+
+n/a
+
+---
