@@ -137,3 +137,19 @@ n/a
 n/a
 
 ---
+
+### Day 62: 9 May 2021
+
+**Today**: Worked through lessons 15 & 16 of SwiftUI for iOS 14.
+
+**Thoughts:** Happy Mothers day. Week 9 complete.
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
