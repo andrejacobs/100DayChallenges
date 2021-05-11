@@ -51,3 +51,19 @@
 n/a
 
 ---
+
+### Day 64: 11 May 2021
+
+**Today**: Started the course "Build an app with SwiftUI Part 1" by Design+Code
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
