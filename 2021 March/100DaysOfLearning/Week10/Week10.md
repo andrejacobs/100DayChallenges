@@ -67,3 +67,32 @@ n/a
 n/a
 
 ---
+
+### Day 65: 12 May 2021
+
+**Today**: Worked through lesson 3 & 4.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. You refactor chunks of SwiftUI (containers) to its own view by `Cmd + Click` and selecting Extract Subview.
+2. Some handy view modifiers
+	
+	    .offset(x: 0.0, y: -40.0)
+	    .scaleEffect(0.9)
+	    .rotationEffect(.degrees(10.0))
+	    .rotation3DEffect(.degrees(10.0),
+	        axis: (x: 10.0, y: 0.0, z: 0.0))
+	    .blendMode(.hardLight)
+
+3. Can change text alignment with `.multilineTextAlignment(.center)`
+4. To stretch a view to the maximum available space:
+
+		.frame(maxWidth: .infinity)
+
+**Links:**
+
+1. n/a
+
+---
