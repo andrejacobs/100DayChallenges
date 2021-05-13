@@ -96,3 +96,19 @@ n/a
 1. n/a
 
 ---
+
+### Day 66: 13 May 2021
+
+**Today**: Worked through lessons 5 & 6
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
