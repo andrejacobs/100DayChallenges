@@ -112,3 +112,50 @@ n/a
 n/a
 
 ---
+
+### Day 67: 14 May 2021
+
+**Today**: Worked through lesson 7 to 10.
+
+**Thoughts:** Still sick as a dog, but at least Covid test was negative.
+
+**Key concepts:**
+
+1. .background takes any view
+2. Color is a view, hence you can do .background(Color.blue)
+3. You can a linear gradient by using LinearGradient (as a background view)
+4. You can use .overlay to place a view outside of clipping areas.
+
+**Links:**
+
+n/a
+
+---
+
+### Day 68: 15 May 2021
+
+**Today**: Worked through lessons 11 to 16.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. Can create a binding to a state using @Binding
+
+		struct someView: View {
+			@Binding var showSomething: Bool
+			...
+		}
+
+		// Where it is used
+		@State var showSomething = false
+		someView(showSomething: $showSomething)
+		
+2. If you don't have a state to bind to (e.g. Preview) you can use `.constant(value)`
+
+
+**Links:**
+
+n/a
+
+---
