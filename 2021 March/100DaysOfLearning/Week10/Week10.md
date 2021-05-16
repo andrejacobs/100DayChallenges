@@ -159,3 +159,38 @@ n/a
 n/a
 
 ---
+
+### Day 69: 16 May 2021
+
+**Today**: Worked through lessons 17 - 19.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. Most minimal code to explain "Navigation VC" + Table View + Push on VC (old skool equivalent)
+
+        NavigationView {
+          List(0 ..< 5) { item in
+            NavigationLink(destination: Text("Push on")) {
+                    Text("List item title")
+                }
+            }
+            .navigationTitle(Text("Updates"))
+	    }
+
+
+2. **NOTE:** You put the navigation bar title on the inner view and NOT the NavigationView.
+3. You can limit the lines of text using `.lineLimit(2)`
+4. Navigation bar items:
+
+		.navigationBarItems(leading: someView,
+		  trailing: EditButton())
+5. **NOTE:** You can have a built-in `EditButton` that just does the right thing.
+
+
+**Links:**
+
+n/a
+
+---
