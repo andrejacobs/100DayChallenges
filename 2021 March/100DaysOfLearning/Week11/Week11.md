@@ -41,3 +41,19 @@
 n/a
 
 ---
+
+### Day 71: 18 May 2021
+
+**Today**: Started "Build an app with SwiftUI Part 2" from Design+Code
+ 
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+1. [Design+Code](https://designcode.io/swiftui2)
+
+---
