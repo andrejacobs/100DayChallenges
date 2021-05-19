@@ -57,3 +57,40 @@ n/a
 1. [Design+Code](https://designcode.io/swiftui2)
 
 ---
+
+### Day 72: 19 May 2021
+
+**Today**: Worked through lesson 4
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. You can create custom modifiers like this
+
+		struct CustomModifier: ViewModifier {
+		    func body(content: Content) -> some View {
+		        content
+		            .shadow(...)
+		            .someThingElse()
+		    }
+		}
+
+		...
+		someView
+			.modifier(CustomModifier)
+
+2. Font modifiers can be applied to stacks and it will be applied to all Text views in the stack.
+3. To add a custom font. Add the files to the bundle and add the following to the Info.plist.
+
+	Fonts provide by application
+	* This is an array so you can add the file name of each font from the bundle. I.e. Custom-Font.ttf
+4. Then to use it in code.
+
+		.font(.custom("Custom-Font", size: 28.0))
+
+**Links:**
+
+n/a
+
+---
