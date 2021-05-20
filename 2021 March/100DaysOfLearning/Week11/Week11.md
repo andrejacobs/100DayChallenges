@@ -94,3 +94,19 @@ n/a
 n/a
 
 ---
+
+### Day 73: 20 May 2021
+
+**Today**: Worked through lesson 5 & 6
+
+**Thoughts:** I am feeling a lot better after the bronchitis, still the odd cought but a lot better.
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
