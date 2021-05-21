@@ -110,3 +110,26 @@ n/a
 n/a
 
 ---
+
+### Day 74: 21 May 2021
+
+**Today**: Worked through lesson 7 to 10
+
+**Thoughts:** I got my first vaccination today. They gave me the Phizer vaccine.
+
+**Key concepts:**
+
+1. To hide the status bar
+
+		var body: some View {
+			someView {
+				...
+			}
+			.statusBar(hidden: true)
+		}
+
+**Links:**
+
+n/a
+
+---
