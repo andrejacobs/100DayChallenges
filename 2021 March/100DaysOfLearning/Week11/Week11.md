@@ -133,3 +133,19 @@ n/a
 n/a
 
 ---
+
+### Day 75: 22 May 2021
+
+**Today**: Worked through lessons 11 & 12
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
