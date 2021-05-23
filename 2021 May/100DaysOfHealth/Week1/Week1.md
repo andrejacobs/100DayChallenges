@@ -25,3 +25,15 @@
 **Thoughts:** Feeling pretty good even though I had the jab yesterday. My arm is still sore but it has not stopped me doing stuff.
 
 ---
+
+### Day 3: 23 May 2021
+
+**Today**:
+
+* Went for a nice walk with the kids
+* Meditated for 5 minutes
+* Did 10 pushups
+
+**Thoughts:** This week has been an eye opener to me for just how out of shape I got since lockdown started last year.
+
+---
