@@ -149,3 +149,21 @@ n/a
 n/a
 
 ---
+
+### Day 76: 23 May 2021
+
+**Today**: Learned how to setup a Raspberry Pi as a Print server.
+
+Week 11 completed!
+
+**Thoughts:** Was a good weekend overall (despite the non stop rain)
+
+**Key concepts:**
+
+1. CUPS is your friend.
+
+**Links:**
+
+1. [Blog post](https://andrejacobs.org/general-computing/saving-a-samsung-printer-from-the-landfill-by-using-a-raspberry-pi/)
+
+---
