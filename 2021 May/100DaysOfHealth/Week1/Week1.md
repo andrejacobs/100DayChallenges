@@ -37,3 +37,14 @@
 **Thoughts:** This week has been an eye opener to me for just how out of shape I got since lockdown started last year.
 
 ---
+
+### Day 4: 24 May 2021
+
+**Today**:
+
+* Did 20 pushups and 20 squats
+* Meditated for 5 minutes
+
+**Thoughts:** I should aim to do the exercise in the morning and not after a big dinner!
+
+---
