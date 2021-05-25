@@ -48,3 +48,13 @@
 **Thoughts:** I should aim to do the exercise in the morning and not after a big dinner!
 
 ---
+
+### Day 5: 25 May 2021
+
+**Today**:
+
+* Did 30 pushups and 30 squats
+
+**Thoughts:** Feeling a bit drained in general.
+
+---
