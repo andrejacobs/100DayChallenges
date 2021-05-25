@@ -17,3 +17,21 @@ n/a
 1. [Sean Allen's Dub Dub Grub](https://seanallen.teachable.com/p/dub-dub-grub-swiftui-mapkit-cloudkit)
 
 ---
+
+### Day 78: 25 May 2021
+
+**Today**: Worked through lessons 14 and 15.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+1. [Random user](https://randomuser.me/)
+2. [UIFaces](https://uifaces.co/)
+3. [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+
+---
