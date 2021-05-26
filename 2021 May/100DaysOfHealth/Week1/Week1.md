@@ -58,3 +58,13 @@
 **Thoughts:** Feeling a bit drained in general.
 
 ---
+
+### Day 6: 26 May 2021
+
+**Today**:
+
+* Did 30 pushup and 40 squats
+
+**Thoughts:** My muscles are burning. I am so out of shape!
+
+---
