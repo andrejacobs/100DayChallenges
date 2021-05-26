@@ -35,3 +35,23 @@ n/a
 3. [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ---
+
+### Day 79: 26 May 2021
+
+**Today**: Worked through lessons 16 to 18.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. Contentful looks like a nice easy to use CMS for APIs
+2. SDWebImage is a nice image loading / caching library.
+3. There is also SDWebImageSwiftUI now.
+4. You can get a random element from an array with .randomElement()
+
+**Links:**
+
+1. [Contentful CMS](https://www.contentful.com/)
+2. [SDWebImage](https://github.com/SDWebImage/SDWebImage.git)
+
+---
