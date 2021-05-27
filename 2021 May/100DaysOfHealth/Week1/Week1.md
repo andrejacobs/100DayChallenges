@@ -63,8 +63,21 @@
 
 **Today**:
 
-* Did 30 pushup and 40 squats
+* Did 30 pushups and 40 squats
 
 **Thoughts:** My muscles are burning. I am so out of shape!
+
+---
+
+### Day 7: 27 May 2021
+
+**Today**:
+
+Week 1 complete
+
+* Did 30 pushups and 40 squats
+* Meditated for 10 minutes
+
+**Thoughts:** Need to cook more.
 
 ---
