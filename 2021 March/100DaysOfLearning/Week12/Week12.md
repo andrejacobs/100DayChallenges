@@ -55,3 +55,44 @@ n/a
 2. [SDWebImage](https://github.com/SDWebImage/SDWebImage.git)
 
 ---
+
+### Day 80: 27 May 2021
+
+**Today**: Finished "Build an app with SwiftUI Part 2"
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. You use UIViewRepresentable to bridge UIKit to SwiftUI
+
+		struct SomeView: UIViewRepresentable {
+		    typealias UIViewType = UIView
+		    
+		    func makeUIView(context: Context) -> UIView {
+		    }
+		    
+		    func updateUIView(_ uiView: UIView, context: Context) {
+		    }
+		}
+
+
+2. To render the preview in dark mode
+
+		struct SomeView_Previews: PreviewProvider {
+		    static var previews: some View {
+		        SomeView().environment(\.colorScheme, .dark)
+		    }
+		}
+
+3. Colours and Images in an asset catalogue can both have values for Dark mode set.
+
+4. To render with a different dynamic type setting.
+
+		.environment(\.sizeCategory, .extraLarge)
+
+**Links:**
+
+n/a
+
+---
