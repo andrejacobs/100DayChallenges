@@ -96,3 +96,19 @@ n/a
 n/a
 
 ---
+
+### Day 81: 28 May 2021
+
+**Today**: Started on Build an app with SwiftUI Part 3. Worked through the first 2 lessons.
+
+**Thoughts:** I am feeling a bit burned out.
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
