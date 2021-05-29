@@ -112,3 +112,19 @@ n/a
 n/a
 
 ---
+
+### Day 82: 29 May 2021
+
+**Today**: Worked through lesson 3
+
+**Thoughts:** The day started off well with me starting on the "quick" desk build but then I had a car breakdown :-(
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
