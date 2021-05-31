@@ -32,3 +32,13 @@
 **Thoughts:** Feeling great and happy
 
 ---
+
+### Day 11: 31 May 2021
+
+**Today**:
+
+* Did 50 pushups and 20 squats
+
+**Thoughts:** My legs are sore from yesterday's squats as well as all the bending and lifting the last 3 days.
+
+---
