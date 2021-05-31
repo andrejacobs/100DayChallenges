@@ -128,3 +128,25 @@ n/a
 n/a
 
 ---
+
+### Day 83: 30 May 2021
+
+**Today**: Worked through lesson 4 & 5
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. To generate haptic feedback
+
+		UINotificationFeedbackGenerator().notificationOccurred(.success)
+
+2. To generate a single haptic impulse
+
+		UIImpactFeedbackGenerator(style: .heavy).impactOccurred()
+
+**Links:**
+
+n/a
+
+---
