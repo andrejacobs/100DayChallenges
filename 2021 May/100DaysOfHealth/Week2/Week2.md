@@ -42,3 +42,14 @@
 **Thoughts:** My legs are sore from yesterday's squats as well as all the bending and lifting the last 3 days.
 
 ---
+
+### Day 12: 1 June 2021
+
+**Today**:
+
+* Did 50 pushups and 60 squats
+* Did 5 minutes of meditation
+
+**Thoughts:** Slowly getting there. Be patient, it takes time!
+
+---
