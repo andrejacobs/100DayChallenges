@@ -27,3 +27,37 @@
 n/a
 
 ---
+
+### Day 85: 1 June 2021
+
+**Today**: Worked through lesson 8 to 10.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. SwiftUI text field
+
+		TextField("Your Email".uppercased(), text: $email)
+		    .keyboardType(.emailAddress)
+		    .font(.subheadline)
+
+
+2. Secure entry text field
+
+		SecureField("Password".uppercased(), text: $password)
+			.keyboardType(.default)
+			.font(.subheadline)
+
+3. To dismiss the keyboard
+
+	    func hideKeyboard() {
+	        UIApplication.shared.sendAction(#selector(UIResponder.resignFirstResponder), to: nil, from: nil, for: nil)
+	    }
+
+
+**Links:**
+
+1. [LottieFiles](https://lottiefiles.com/)
+
+---
