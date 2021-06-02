@@ -61,3 +61,19 @@ n/a
 1. [LottieFiles](https://lottiefiles.com/)
 
 ---
+
+### Day 86: 2 June 2021
+
+**Today**: Worked through lessons 11 & 12. Login with Firebase.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
