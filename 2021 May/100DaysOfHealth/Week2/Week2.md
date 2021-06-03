@@ -53,3 +53,13 @@
 **Thoughts:** Slowly getting there. Be patient, it takes time!
 
 ---
+
+### Day 13: 2 June 2021
+
+**Today**:
+
+* Did 60 pushups and 80 squats
+
+**Thoughts:** Feeling good
+
+---
