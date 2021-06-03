@@ -77,3 +77,20 @@ n/a
 n/a
 
 ---
+
+### Day 87: 3 June 2021
+
+**Today**: Worked through lessons 13 to 15.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. You can bind/inject objects using `@EnvironmentObject` and provide the value to a view using `.enivornmentObject(theInstance)`
+2. Y is important because of such and such
+
+**Links:**
+
+n/a
+
+---
