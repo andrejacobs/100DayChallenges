@@ -94,3 +94,19 @@ n/a
 n/a
 
 ---
+
+### Day 88: 4 June 2021
+
+**Today**: Completed "Build an app with SwiftUI Parts 1 - 3".
+
+**Thoughts:** This was a long course!
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
