@@ -4,7 +4,9 @@
 
 ### Day 1: 21 May 2021
 
-**Today**: Short description
+**Today**:
+
+* Did x y z
 
 **Thoughts:** Paragraph or two
 

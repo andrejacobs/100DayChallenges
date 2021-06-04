@@ -63,3 +63,15 @@
 **Thoughts:** Feeling good
 
 ---
+
+### Day 14: 3 June 2021
+
+**Today**:
+
+Week 2 complete
+
+* Did 70 pushups and 90 squats
+
+**Thoughts:** Paragraph or two
+
+---
