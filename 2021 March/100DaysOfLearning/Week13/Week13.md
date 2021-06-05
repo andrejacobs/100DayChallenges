@@ -110,3 +110,26 @@ n/a
 n/a
 
 ---
+
+### Day 89: 5 June 2021
+
+**Today**: Learned how to model Steel square tubing in Fusion 360
+
+**Thoughts:** Did a lot of sanding today.
+
+**Key concepts:**
+
+* Start a sketch
+* Parameters: SteelWidth = 25mm, SteelHeight = 25mm, SteelThickness = 2mm, SteelOuterRadius = 1.5 * SteelThickness, SteelInnerRadius = 1.0 * SteelThickness
+* Draw a rectangle: SteelWidth x SteelHeight
+* Draw the inside rectangle: (SteelWidth - (SteelThickness * 2)) x (SteelHeight - (SteelThickness * 2))
+* Dimension the inside rectangle to be SteelThickness away from bottom and left side
+* Fillet the outside corners with SteelOuterRadius
+* Filler the inside corners with SteelInnerRadius
+* End sketch and Extrude to length
+
+**Links:**
+
+n/a
+
+---
