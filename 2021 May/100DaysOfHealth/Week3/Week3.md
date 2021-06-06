@@ -22,3 +22,13 @@
 **Thoughts:** A bit fatigued
 
 ---
+
+### Day 17 6 June 2021
+
+**Today**:
+
+* Did 80 pushups and 80 squats
+
+**Thoughts:** :-D
+
+---
