@@ -133,3 +133,21 @@ n/a
 n/a
 
 ---
+
+### Day 90: 6 June 2021
+
+**Today**: A couple of woodworking tips and more on modeling with Fusion 360.
+
+**Thoughts:** Spent some more time on the quick desk built today. Joined the legs. Stained all of it.
+
+**Key concepts:**
+
+1. Use anti-fog spray on goggles / masks etc. Motorcyclist use it.
+2. Can use a digital inclometer to set a honing guide for sharpening plane blades.
+
+**Links:**
+
+1. [Woodworking tips](https://www.youtube.com/watch?v=z6hJgOVcHy4&t=6s)
+2. [Model Diresta's workbench](https://www.youtube.com/watch?v=AH3QWscviBc)
+
+---
