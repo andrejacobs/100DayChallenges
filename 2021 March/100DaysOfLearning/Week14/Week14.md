@@ -4,17 +4,16 @@
 
 ### Day 91: 7 June 2021
 
-**Today**: Short description
+**Today**: WWDC21 started today. Watched the Keynote and State of the Union.
 
-**Thoughts:** Paragraph or two
+**Thoughts:** Don't even know where to start!
 
 **Key concepts:**
 
-1. X happens before Y
-2. Y is important because of such and such
+Too many to even list. So many new Apple tech to learn.
 
 **Links:**
 
-1. [Book about X](http://www.example.com)
+n/a
 
 ---
