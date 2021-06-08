@@ -32,3 +32,13 @@
 **Thoughts:** :-D
 
 ---
+
+### Day 18: 7 June 2021
+
+**Today**:
+
+* Started on a Kettlebell routine.
+
+**Thoughts:** Want to start doing Kettlebell every couple of days.
+
+---
