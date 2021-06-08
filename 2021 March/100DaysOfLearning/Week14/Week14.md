@@ -17,3 +17,19 @@ Too many to even list. So many new Apple tech to learn.
 n/a
 
 ---
+
+### Day 92: 8 June 2021
+
+**Today**: Watching a ton of WWDC21 sessions
+
+**Thoughts:** I am not normally on a dubdub high but every few years they smash it out of the park.
+
+**Key concepts:**
+
+Can't even begin to list them here. I would have to write a book on it.
+
+**Links:**
+
+n/a
+
+---
