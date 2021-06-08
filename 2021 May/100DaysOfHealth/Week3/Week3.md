@@ -42,3 +42,14 @@
 **Thoughts:** Want to start doing Kettlebell every couple of days.
 
 ---
+
+### Day 19: 8 June 2021
+
+**Today**:
+
+* Did 50 pushups and 50 squats
+* My wife cooked a lovely dinner
+
+**Thoughts:** ?
+
+---
