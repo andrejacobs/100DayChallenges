@@ -33,3 +33,19 @@ Can't even begin to list them here. I would have to write a book on it.
 n/a
 
 ---
+
+### Day 93: 9 June 2021
+
+**Today**: Watching more of WWDC.
+
+**Thoughts:** I truly love Swift.
+
+**Key concepts:**
+
+async & await along with Actors & MainActor is ground breaking and have been needed to truly make Swift great.
+
+**Links:**
+
+n/a
+
+---
