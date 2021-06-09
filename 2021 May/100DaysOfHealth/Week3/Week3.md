@@ -53,3 +53,14 @@
 **Thoughts:** ?
 
 ---
+
+### Day 20: 9 June 2021
+
+**Today**:
+
+* Did my Kettlebell routine.
+* Washed windows and doors of the house.
+
+**Thoughts:** Feeling pretty good
+
+---
