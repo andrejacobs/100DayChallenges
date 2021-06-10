@@ -64,3 +64,14 @@
 **Thoughts:** Feeling pretty good
 
 ---
+
+### Day 21: 10 June 2021
+
+**Today**:
+
+* Moved a number of heavy boxes around the house including climbing stairs.
+* Meditated for 5 minutes.
+
+**Thoughts:** n/a
+
+---
