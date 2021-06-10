@@ -49,3 +49,19 @@ async & await along with Actors & MainActor is ground breaking and have been nee
 n/a
 
 ---
+
+### Day 94: 10 June 2021
+
+**Today**: More WWDC. Watched the Concurrency sample app refactoring session.
+
+**Thoughts:** Paragraph or two
+
+**Key concepts:**
+
+1. Xcode 13 has a refactor to alternative for completion handlers and it marks the original code as deprecated.
+
+**Links:**
+
+n/a
+
+---
