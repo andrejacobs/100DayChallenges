@@ -54,11 +54,28 @@ n/a
 
 **Today**: More WWDC. Watched the Concurrency sample app refactoring session.
 
-**Thoughts:** Paragraph or two
+**Thoughts:** n/a
 
 **Key concepts:**
 
 1. Xcode 13 has a refactor to alternative for completion handlers and it marks the original code as deprecated.
+
+**Links:**
+
+n/a
+
+---
+
+### Day 95: 11 June 2021
+
+**Today**: More WWDC.
+Watched "Discover concurrency in SwiftUI" and "Write a DSL in Swift using result builders"
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
 
 **Links:**
 
