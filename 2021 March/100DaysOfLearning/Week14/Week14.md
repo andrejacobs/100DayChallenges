@@ -82,3 +82,24 @@ n/a
 n/a
 
 ---
+
+### Day 96: 12 June 2021
+
+**Today**: More WWDC.
+Watched "Swift concurrency: Behind the scenes" and
+"Demystify SwiftUI"
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+1. Runtime contract guarantees that threads will always make progress.
+2. Stack frames are stored on the heap and this allows a thread to replace the current stack for other code to be executed.
+3. The thread that executed code before the await is “most” likely not the same thread that will continue after.
+4. Avoid branches when creating views in SwiftUI.
+
+**Links:**
+
+n/a
+
+---
