@@ -12,3 +12,14 @@
 **Thoughts:** I am knackered
 
 ---
+
+### Day 23: 12 June 2021
+
+**Today**:
+
+* Went on a nice long walk with the kids.
+* Took a 30 minute nap.
+
+**Thoughts:** Love when the weather is great.
+
+---
