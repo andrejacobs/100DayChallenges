@@ -34,3 +34,13 @@
 **Thoughts:** This was one exhausting weekend!
 
 ---
+
+### Day 25: 14 June 2021
+
+**Today**:
+
+* Did my kettlebell routine
+
+**Thoughts:** This was one exhausting weekend!
+
+---
