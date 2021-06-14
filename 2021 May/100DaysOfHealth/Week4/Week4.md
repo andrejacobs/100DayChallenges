@@ -23,3 +23,14 @@
 **Thoughts:** Love when the weather is great.
 
 ---
+
+### Day 24: 13 June 2021
+
+**Today**:
+
+* Cleaned the house
+* Hosted my son's 4th birthday party and was running non stop after kids
+
+**Thoughts:** This was one exhausting weekend!
+
+---
