@@ -103,3 +103,20 @@ Watched "Swift concurrency: Behind the scenes" and
 n/a
 
 ---
+
+### Day 97: 13 June 2021
+
+**Today**: More WWDC.
+Watched "What's new in Foundation".
+
+**Thoughts:** Paragraph or two
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
