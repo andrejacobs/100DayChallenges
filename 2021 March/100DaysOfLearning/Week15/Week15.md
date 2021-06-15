@@ -32,11 +32,11 @@ n/a
 
 Watched:
 
-Meet AsyncSequence by Philippe Hausler
+Meet AsyncSequence by Philippe Hausler @phausler
 
-Use async/await with URLSession by Guoye Zhang & Zhenchao Li
+Use async/await with URLSession by Guoye Zhang @guoye_zhang & Zhenchao Li
 
-ARC in Swift: Basics and beyond by Meghana Gupta
+ARC in Swift: Basics and beyond by Meghana Gupta @_meghanag_
 
 **Thoughts:** I am proud of myself for having completed the challenge and once again proven to myself that I am cable of more things than what I limit myself to.
 
