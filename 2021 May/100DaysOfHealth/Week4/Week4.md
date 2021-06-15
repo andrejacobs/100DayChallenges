@@ -44,3 +44,13 @@
 **Thoughts:** This was one exhausting weekend!
 
 ---
+
+### Day 26: 15 June 2021
+
+**Today**:
+
+* Did 60 pushups
+
+**Thoughts:** Really thought I would be able to do a 100. Did 60 felt good. Took a break and then nothing! Tried 3 times couldn't do a single one.
+
+---
