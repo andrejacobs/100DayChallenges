@@ -64,3 +64,13 @@
 **Thoughts:** Almost forgot to do my exercise!
 
 ---
+
+### Day 28: 17 June 2021
+
+**Today**:
+
+* Did my kettlebell routine. Added in goblet squats and swings.
+
+**Thoughts:** My legs are on fire
+
+---
