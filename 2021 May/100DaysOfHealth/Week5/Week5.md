@@ -14,3 +14,13 @@
 **Thoughts:** F yeah!
 
 ---
+
+### Day 30: 19 June 2021
+
+**Today**:
+
+* Went on a nice long walk with the kids today
+
+**Thoughts:** n/a
+
+---
