@@ -24,3 +24,15 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 31: 20 June 2021
+
+**Today**:
+
+* Did 20 pushups
+* Kettlebell routine
+* Went on a walk with the kids
+
+**Thoughts:** Happy Father's day
+
+---
