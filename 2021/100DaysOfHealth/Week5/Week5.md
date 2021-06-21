@@ -36,3 +36,13 @@
 **Thoughts:** Happy Father's day
 
 ---
+
+### Day 32: 21 June 2021
+
+**Today**:
+
+* Did 60 pushups & 60 squats
+
+**Thoughts:** n/a
+
+---
