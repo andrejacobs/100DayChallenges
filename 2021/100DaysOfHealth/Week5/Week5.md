@@ -43,6 +43,6 @@
 
 * Did 60 pushups & 60 squats
 
-**Thoughts:** n/a
+**Thoughts:** I weighed myself and I am 108kg! Lots of work to be done.
 
 ---
