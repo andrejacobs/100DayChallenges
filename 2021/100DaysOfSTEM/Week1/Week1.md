@@ -22,3 +22,23 @@
 1. [@drfootleg session](https://twitter.com/drfootleg/status/1406893742540328960?s=20)
 
 ---
+
+### Day 2: 22 June 2021
+
+**Today**:
+
+* Built the Function Generator kit.
+* Managed to figure out the basics of my Oscilloscope.
+* Started reviewing my course notes from "Master the Fundamentals of Math" by Krista King
+
+**Thoughts:** Doing pretty well so far.
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+1. [Krista King Course](https://www.udemy.com/course/fundamentals-of-math/)
+
+---
