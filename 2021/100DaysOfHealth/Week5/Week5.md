@@ -46,3 +46,13 @@
 **Thoughts:** I weighed myself and I am 108kg! Lots of work to be done.
 
 ---
+
+### Day 33: 22 June 2021
+
+**Today**:
+
+* Kettlebell routine
+
+**Thoughts:** n/a
+
+---
