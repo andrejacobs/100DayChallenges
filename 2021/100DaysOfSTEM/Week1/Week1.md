@@ -42,3 +42,24 @@ n/a
 1. [Krista King Course](https://www.udemy.com/course/fundamentals-of-math/)
 
 ---
+
+### Day 3: 23 June 2021
+
+**Today**:
+
+* Soldered headers on 3 Raspberry Pi Picos
+* Tested Pimoroni Pico Explorer and Pico Display pack
+* Also tested Cytron Maker Pi
+* Finished reviewing my previous notes as well as finish the Ratio and Proportions section of "Master the Fundamentals of Math" by Krista King
+
+**Thoughts:** Was one of those rare days were everything just went super well.
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
