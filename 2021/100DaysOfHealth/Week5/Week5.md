@@ -56,3 +56,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 34: 23 June 2021
+
+**Today**:
+
+* Did 100 pushups and 100 squats (boom!)
+
+**Thoughts:** Firing on all 8 cylinders today!
+
+---
