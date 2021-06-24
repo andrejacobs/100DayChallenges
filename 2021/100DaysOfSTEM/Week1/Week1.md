@@ -63,3 +63,22 @@ n/a
 n/a
 
 ---
+
+### Day 4: 24 June 2021
+
+**Today**:
+
+* Finished the Exponents section of "Master the Fundamentals of Math" by Krista King
+* Soldered headers and Captain Resetti onto another Pico.
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
