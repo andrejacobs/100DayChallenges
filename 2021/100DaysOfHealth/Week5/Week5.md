@@ -66,3 +66,15 @@
 **Thoughts:** Firing on all 8 cylinders today!
 
 ---
+
+### Day 35: 24 May 2021
+
+**Today**:
+
+Week 5 complete
+
+* Did my Kettlebell routine
+
+**Thoughts:** n/a
+
+---
