@@ -82,3 +82,23 @@ n/a
 n/a
 
 ---
+
+### Day 5: 25 June 2021
+
+**Today**:
+
+* Finished the Radicals section of "Master the Fundamentals of Math" by Krista King
+
+**Thoughts:**
+
+n/a
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
