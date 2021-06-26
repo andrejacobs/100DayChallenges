@@ -102,3 +102,21 @@ n/a
 n/a
 
 ---
+
+### Day 6: 26 June 2021
+
+**Today**:
+
+* Started the Scientific Notation section of "Master the Fundamentals of Math" by Krista King
+
+**Thoughts:** I am almost finished with a course I started 2 years ago and then lost momentum on
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
