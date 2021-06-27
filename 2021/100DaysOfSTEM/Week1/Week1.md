@@ -120,3 +120,23 @@ n/a
 n/a
 
 ---
+
+### Day 7: 27 June 2021
+
+**Today**:
+
+Week 1 complete!
+
+* Completed "Master the Fundamentals of Math" by Krista King.
+
+**Thoughts:** I am really happy to have finished a course I started 2.5 years ago while living in the temporary accomodation after the neighbour burned our house down and I was unemployed. Managed to work through about 60% of the course back then but then life got in the way.
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
