@@ -22,3 +22,13 @@
 **Thoughts:** Knackerred
 
 ---
+
+### Day 38: 27 June 2021
+
+**Today**:
+
+* Did 40 pushups
+
+**Thoughts:** Drained
+
+---
