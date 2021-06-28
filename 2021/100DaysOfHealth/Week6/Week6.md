@@ -32,3 +32,13 @@
 **Thoughts:** Drained
 
 ---
+
+### Day 39: 28 June 2021
+
+**Today**:
+
+* Did 60 pushups
+
+**Thoughts:** n/a
+
+---
