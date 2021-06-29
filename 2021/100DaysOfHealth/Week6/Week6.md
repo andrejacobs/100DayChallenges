@@ -42,3 +42,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 40: 29 June 2021
+
+**Today**:
+
+* Did Kettlebell routine
+
+**Thoughts:** n/a
+
+---
