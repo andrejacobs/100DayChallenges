@@ -19,3 +19,21 @@ n/a
 1. [Become a Geometry Master - Krista King](https://www.udemy.com/course/geometry-basics/)
 
 ---
+
+### Day 9: 29 June 2021
+
+**Today**:
+
+* Continuing the section about Lines from "Become a Geometry Master" by Krista King
+* Learned about reinforced concrete and why structures collapse by @skillbuilderuk
+
+**Thoughts:** n/a
+
+**Key concepts:**
+
+
+**Links:**
+
+1. [Why do Concrete Buildings Collapse?](https://www.youtube.com/watch?v=lifCWsD4ckc)
+
+---
