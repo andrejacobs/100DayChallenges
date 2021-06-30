@@ -37,3 +37,21 @@ n/a
 1. [Why do Concrete Buildings Collapse?](https://www.youtube.com/watch?v=lifCWsD4ckc)
 
 ---
+
+### Day 10: 30 June 2021
+
+**Today**: 
+
+* Finished section 2 about Lines from "Become a Geometry Master" by Krista King
+
+**Thoughts:** Payday!
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
