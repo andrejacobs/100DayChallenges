@@ -57,7 +57,7 @@
 
 **Today**:
 
-* Did 5 minutes medidation
+* Did 5 minutes meditation
 
 **Thoughts:** n/a
 
