@@ -55,3 +55,21 @@ n/a
 n/a
 
 ---
+
+### Day 11: 1 July 2021
+
+**Today**: 
+
+* Started on section 3 about Angles from "Become a Geometry Master" by Krista King
+
+**Thoughts:**
+
+**Key concepts:**
+
+n/a
+
+**Links:**
+
+n/a
+
+---
