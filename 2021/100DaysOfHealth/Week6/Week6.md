@@ -52,3 +52,24 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 41: 30 June 2021
+
+**Today**:
+
+* Did 5 minutes medidation
+
+**Thoughts:** n/a
+
+---
+
+### Day 42: 1 July 2021
+
+**Today**:
+
+* Did Kettlebell routine
+* Did 20 pushups
+
+**Thoughts:** n/a
+
+---
