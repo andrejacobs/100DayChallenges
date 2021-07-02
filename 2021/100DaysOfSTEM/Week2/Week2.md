@@ -73,3 +73,20 @@ n/a
 n/a
 
 ---
+
+### Day 12: 2 July 2021
+
+**Today**:
+
+* Watched a couple of @objcio Swift Talk sessions
+* Watched a couple of Math Antics videos on Algebra
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:**
+
+1. [Math Antics](https://mathantics.com/)
+
+---
