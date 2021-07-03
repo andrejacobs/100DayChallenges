@@ -90,3 +90,17 @@ n/a
 1. [Math Antics](https://mathantics.com/)
 
 ---
+
+### Day 13: 3 July 2021
+
+**Today**:
+
+* Continuing with section 3 about Angles from "Become a Geometry Master" by Krista King
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
