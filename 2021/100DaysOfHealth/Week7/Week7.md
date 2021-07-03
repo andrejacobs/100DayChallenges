@@ -11,3 +11,14 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 44: 3 July 2021
+
+**Today**:
+
+* Went on a solo walk for an hour
+* Did 20 pushups
+
+**Thoughts:** Mentaly fatigued
+
+---
