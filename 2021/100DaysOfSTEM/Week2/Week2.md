@@ -104,3 +104,20 @@ n/a
 **Links:** n/a
 
 ---
+
+### Day 14: 3 July 2021
+
+**Today**:
+
+* Converted my Home Assistant to be using MariaDB as the database
+* Got my Linux server out of storage and back up and running
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:**
+
+1. [Blog post for today](https://andrejacobs.org/home-automation/convert-home-assistant-to-use-mariadb-as-the-database/)
+
+---
