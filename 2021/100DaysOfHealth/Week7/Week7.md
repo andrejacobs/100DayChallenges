@@ -22,3 +22,14 @@
 **Thoughts:** Mentaly fatigued
 
 ---
+
+### Day 45: 4 July 2021
+
+**Today**:
+
+* Did 50 pushups
+* Did Kettlebell routine
+
+**Thoughts:** n/a
+
+---
