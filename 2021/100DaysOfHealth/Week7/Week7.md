@@ -33,3 +33,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 46: 5 July 2021
+
+**Today**:
+
+* Did Kettlebell routine
+
+**Thoughts:** n/a
+
+---
