@@ -43,3 +43,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 47: 6 July 2021
+
+**Today**:
+
+* Did 110 pushups! Yeeha!
+
+**Thoughts:** Doing 100 pushups comes and goes in waves. Depends on energy levels, muscle aches and mind status.
+
+---
