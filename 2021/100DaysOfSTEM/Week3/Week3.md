@@ -17,3 +17,20 @@
 **Links:** n/a
 
 ---
+
+### Day 16: 6 July 2021
+
+**Today**: 
+
+* Soldered headers and a resetti onto another Raspberry Pi Pico
+* Setup my Mac with the C++ toolchain to build Pi Pico programs
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:**
+
+n/a
+
+---
