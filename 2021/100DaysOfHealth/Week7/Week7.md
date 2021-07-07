@@ -53,3 +53,13 @@
 **Thoughts:** Doing 100 pushups comes and goes in waves. Depends on energy levels, muscle aches and mind status.
 
 ---
+
+### Day 48: 7 July 2021
+
+**Today**:
+
+* Did Kettlebell routine x2
+
+**Thoughts:** n/a
+
+---
