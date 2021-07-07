@@ -34,3 +34,19 @@
 n/a
 
 ---
+
+### Day 17: 7 July 2021
+
+**Today**:
+
+* Managed to setup my Mac to develop and debug C/C++ code on the Raspberry Pi Pico.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:**
+
+1. [Blog post](https://andrejacobs.org/electronics/develop-and-debug-raspberry-pi-pico-on-macos-big-sur/)
+
+---
