@@ -50,3 +50,24 @@ n/a
 1. [Blog post](https://andrejacobs.org/electronics/develop-and-debug-raspberry-pi-pico-on-macos-big-sur/)
 
 ---
+
+### Day 18: 8 July 2021
+
+**Today**:
+
+* Finished section 3 about Angles from "Become a Geometry Master" by Krista King
+
+* Watched the Data Structures section from Swift Talk @objcio by Karoy Lorentey @lorentey
+
+* Made a start on the MASSIVE Electronics course by the LEGEND André LaMothe @NurveNetworks
+
+**Thoughts:** Learned quite a bit today. Loving it!
+
+**Key concepts:** n/a
+
+**Links:**
+
+1. [Crash Course Electronics and PCB Design](https://www.udemy.com/course/crash-course-electronics-and-pcb-design/)
+2. [Swift Talk](https://talk.objc.io/)
+
+---
