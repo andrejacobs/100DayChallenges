@@ -63,3 +63,15 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 49: 8 July 2021
+
+**Today**:
+
+Week 7 complete!
+
+* Taking a chill by meditating for 5 minutes
+
+**Thoughts:** n/a
+
+---
