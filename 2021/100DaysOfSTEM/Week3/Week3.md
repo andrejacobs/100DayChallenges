@@ -71,3 +71,33 @@ n/a
 2. [Swift Talk](https://talk.objc.io/)
 
 ---
+
+### Day 19: 9 July 2021
+
+**Today**: 
+
+* Started watching the Collections section from Swift Talk @objcio
+
+* Continued learning Electronics from André LaMothe @NurveNetworks course.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
+
+### Day 20: 10 July 2021
+
+**Today**:
+
+* Continued learning Electronics from André LaMothe Udemy course.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
