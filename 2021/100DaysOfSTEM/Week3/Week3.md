@@ -101,3 +101,17 @@ n/a
 **Links:** n/a
 
 ---
+
+### Day 21: 11 July 2021
+
+**Today**:
+
+* Continued learning Electronics from André LaMothe's Udemy course.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
