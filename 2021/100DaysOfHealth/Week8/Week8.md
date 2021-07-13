@@ -33,3 +33,14 @@ Did 20, thought this was it for today. Rested 2 minutes. Then did 30, 20, 10, 10
 **Thoughts:** n/a
 
 ---
+
+### Day 53: 12 July 2021
+
+**Today**:
+
+* Took the kids for a nice long walk.
+* Did some mindfulness practising hand writing with the Apple Pencil 2.
+
+**Thoughts:** n/a
+
+---
