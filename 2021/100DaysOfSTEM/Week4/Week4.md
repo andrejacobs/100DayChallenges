@@ -15,3 +15,19 @@
 **Links:** n/a
 
 ---
+
+### Day 23: 13 July 2021
+
+**Today**:
+
+* Continued learning a lot more Electronics from André LaMothe's Udemy course.
+
+* Watched some more Swift Talk sessions on Collection protocols.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
