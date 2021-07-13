@@ -44,3 +44,15 @@ Did 20, thought this was it for today. Rested 2 minutes. Then did 30, 20, 10, 10
 **Thoughts:** n/a
 
 ---
+
+### Day 54: 13 July 2021
+
+**Today**:
+
+* Did 40 pushups and 40 squats.
+* Did a kettlebell routine.
+* More mindfulness practise with cursive writing.
+
+**Thoughts:** n/a
+
+---
