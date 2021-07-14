@@ -56,3 +56,14 @@ Did 20, thought this was it for today. Rested 2 minutes. Then did 30, 20, 10, 10
 **Thoughts:** n/a
 
 ---
+
+### Day 55: 14 July 2021
+
+**Today**:
+
+* Did a kettlebell routine.
+* Got my 2nd vaccine dose this morning.
+
+**Thoughts:** n/a
+
+---
