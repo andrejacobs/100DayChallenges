@@ -31,3 +31,18 @@
 **Links:** n/a
 
 ---
+
+### Day 24: 14 July 2021
+
+**Today**:
+
+* Continued learning more Electronics from André LaMothe's Udemy course.
+* Learned about transistors and MOSFETs
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
