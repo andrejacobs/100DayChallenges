@@ -46,3 +46,18 @@
 **Links:** n/a
 
 ---
+
+### Day 25: 15 July 2021
+
+**Today**:
+
+* Continued learning more Electronics from André LaMothe's Udemy course.
+* Watched episode 1 of "The Secrets of Quantum Physics" - by @jimalkhalili 
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
