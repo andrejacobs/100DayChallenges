@@ -67,3 +67,16 @@ Did 20, thought this was it for today. Rested 2 minutes. Then did 30, 20, 10, 10
 **Thoughts:** n/a
 
 ---
+
+### Day 56: 15 July 2021
+
+**Today**:
+
+Week 8 complete
+
+* Did a kettlebell routine.
+* Made a nice chicken and chickpea curry.
+
+**Thoughts:** n/a
+
+---
