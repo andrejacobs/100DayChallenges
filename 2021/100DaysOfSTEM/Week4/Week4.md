@@ -61,3 +61,17 @@
 **Links:** n/a
 
 ---
+
+### Day 26: 16 July 2021
+
+**Today**:
+
+* Finished section 2 of Crash Course Electronics from André LaMothe's Udemy course. Section 2 is over 16 hours!
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
