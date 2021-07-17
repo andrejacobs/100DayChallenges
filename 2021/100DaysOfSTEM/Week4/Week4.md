@@ -75,3 +75,17 @@
 **Links:** n/a
 
 ---
+
+### Day 27: 17 July 2021
+
+**Today**:
+
+* Continued learning more Electronics from André LaMothe's Udemy course. Today started on Kirchhoff's current and voltage laws.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
