@@ -11,3 +11,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 58: 17 July 2021
+
+**Today**:
+
+* Spent over 3 hours cutting plywood sheets down.
+
+**Thoughts:** n/a
+
+---
