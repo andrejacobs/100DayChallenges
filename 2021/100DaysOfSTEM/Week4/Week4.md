@@ -89,3 +89,17 @@
 **Links:** n/a
 
 ---
+
+### Day 28: 18 July 2021
+
+**Today**:
+
+* Continued learning more Electronics from André LaMothe's Udemy course. Today finished a circuit analysis and covered voltage dividers.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
