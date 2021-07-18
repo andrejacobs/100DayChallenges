@@ -21,3 +21,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 59: 18 July 2021
+
+**Today**:
+
+* Took my son on a couple of walks today including along the river. Followed by running away from kids with super soakers at a birthday party.
+
+**Thoughts:** n/a
+
+---
