@@ -31,3 +31,14 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 60: 19 July 2021
+
+**Today**:
+
+* Ate a nice home cooked chicken dinner.
+* Meditated for 5 minutes.
+
+**Thoughts:** Injured my knee and is laying off it as much as possible (or at least try)
+
+---
