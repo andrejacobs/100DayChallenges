@@ -16,3 +16,17 @@
 **Links:** n/a
 
 ---
+
+### Day 30: 20 July 2021
+
+**Today**: 
+
+* Continuing with Crash Course Electronics from André LaMothe's Udemy course.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
