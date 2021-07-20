@@ -42,3 +42,12 @@
 **Thoughts:** Injured my knee and is laying off it as much as possible (or at least try)
 
 ---
+
+### Day 61: 20 July 2021
+
+**Today**:
+
+* Did a 100 pushups. 5 sets of 20 reps.
+
+**Thoughts:** n/a
+---
