@@ -30,3 +30,18 @@
 **Links:** n/a
 
 ---
+
+### Day 31: 21 July 2021
+
+**Today**: 
+
+* Continuing with Crash Course Electronics from André LaMothe's Udemy course.
+* Learning about the effects of RC circuits.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
