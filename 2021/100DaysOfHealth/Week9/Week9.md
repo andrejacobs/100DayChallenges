@@ -51,3 +51,13 @@
 
 **Thoughts:** n/a
 ---
+
+### Day 62: 21 July 2021
+
+**Today**:
+
+* Did another 100 pushups! Again 5 sets of 20 reps.
+* The first 2 sets were brutal. Then the next 2 were easy followed by brutal last 10 reps.
+
+**Thoughts:** n/a
+---
