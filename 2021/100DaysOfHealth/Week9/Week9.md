@@ -61,3 +61,12 @@
 
 **Thoughts:** n/a
 ---
+
+### Day 63: 22 July 2021
+
+**Today**:
+
+* Did a lot of garden work.
+
+**Thoughts:** n/a
+---
