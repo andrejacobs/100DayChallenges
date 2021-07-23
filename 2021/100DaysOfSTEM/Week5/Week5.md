@@ -59,3 +59,18 @@
 **Links:** n/a
 
 ---
+
+### Day 33: 23 July 2021
+
+**Today**: 
+
+* Started on the Server Side section from Swift Talk.
+* Continuing with Crash Course Electronics from André LaMothe's Udemy course.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
