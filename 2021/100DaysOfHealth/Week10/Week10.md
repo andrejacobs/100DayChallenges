@@ -11,3 +11,23 @@
 **Thoughts:** My knees are still quite sore.
 
 ---
+
+### Day 65: 24 July 2021
+
+**Today**:
+
+* Went on a nice walk in Bristol area
+
+**Thoughts:** n/a
+
+---
+
+### Day 66: 25 July 2021
+
+**Today**:
+
+* Went on a nice walk near a man made lake in Bristol area
+
+**Thoughts:** n/a
+
+---
