@@ -74,3 +74,31 @@
 **Links:** n/a
 
 ---
+
+### Day 34: 24 July 2021
+
+**Today**: 
+
+* Started on a Vapor ebook
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
+
+### Day 35: 25 July 2021
+
+**Today**: 
+
+* Continuing with Crash Course Electronics from André LaMothe's Udemy course.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
