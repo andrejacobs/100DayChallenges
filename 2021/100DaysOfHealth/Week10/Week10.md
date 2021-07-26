@@ -31,3 +31,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 67: 26 July 2021
+
+**Today**:
+
+* Did a kettlebell routine
+
+**Thoughts:** n/a
+
+---
