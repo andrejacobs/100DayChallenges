@@ -41,3 +41,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 68: 27 July 2021
+
+**Today**:
+
+* Practised a bit of mindfulness
+
+**Thoughts:** n/a
+
+---
