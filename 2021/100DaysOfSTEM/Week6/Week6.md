@@ -2,7 +2,7 @@
 
 ## Log book - Week 6
 
-### Day 36: 21 June 2021
+### Day 36: 26 July 2021
 
 **Today**: 
 
@@ -17,5 +17,20 @@
 **Links:** 
 
 1. [Server-Side Swift with Vapor](https://www.raywenderlich.com/books/server-side-swift-with-vapor)
+
+---
+
+### Day 37: 27 July 2021
+
+**Today**: 
+
+* Started watching the Server-Side Swift with Vapor video course. 
+* Continuing to read Server-Side Swift with Vapor.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
 
 ---
