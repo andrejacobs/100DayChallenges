@@ -56,7 +56,7 @@
 
 **Today**:
 
-* Had a lovely home cooked Chicken dinner with vegetables from a local alotment.
+* Had a lovely home cooked Chicken dinner with vegetables from a local allotment.
 
 **Thoughts:** n/a
 
