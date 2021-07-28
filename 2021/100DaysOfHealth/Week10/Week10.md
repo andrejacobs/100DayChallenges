@@ -51,3 +51,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 69: 28 July 2021
+
+**Today**:
+
+* Had a lovely home cooked Chicken dinner with vegetables from a local alotment.
+
+**Thoughts:** n/a
+
+---
