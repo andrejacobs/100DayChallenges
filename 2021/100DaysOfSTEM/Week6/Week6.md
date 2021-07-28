@@ -34,3 +34,17 @@
 **Links:** n/a
 
 ---
+
+### Day 38: 28 July 2021
+
+**Today**: 
+
+* Continuing to read Server-Side Swift with Vapor ebook and watching the video course.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
