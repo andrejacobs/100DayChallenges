@@ -61,3 +61,15 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 70: 29 July 2021
+
+**Today**:
+
+Week 10 complete!
+
+* Did a 100 pushups. 30, 20, 20, 20-10.
+
+**Thoughts:** n/a
+
+---
