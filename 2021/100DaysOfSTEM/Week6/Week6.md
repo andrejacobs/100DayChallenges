@@ -48,3 +48,17 @@
 **Links:** n/a
 
 ---
+
+### Day 39: 29 July 2021
+
+**Today**: 
+
+* Managed to build a CRUD vapor api that uses PostgreSQL as the database.
+
+**Thoughts:** n/a
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
