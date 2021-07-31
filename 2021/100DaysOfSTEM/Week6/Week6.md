@@ -62,3 +62,17 @@
 **Links:** n/a
 
 ---
+
+### Day 40: 30 July 2021
+
+**Today**: 
+
+* Finished a couple more chapters on the Vapor book.
+
+**Thoughts:** My whole family caught a stomach bug and we are not doing well.
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
