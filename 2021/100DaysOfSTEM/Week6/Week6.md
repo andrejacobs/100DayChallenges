@@ -76,3 +76,18 @@
 **Links:** n/a
 
 ---
+
+### Day 41: 1 August 2021
+
+**Today**: 
+
+* Finished a couple more chapters on the Vapor book.
+* Learned how to write unit-tests for vapor.
+
+**Thoughts:** I am back baby! Feeling much better.
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
