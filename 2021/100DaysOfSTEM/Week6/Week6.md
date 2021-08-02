@@ -91,3 +91,17 @@
 **Links:** n/a
 
 ---
+
+### Day 42: 2 August 2021
+
+**Today**: 
+
+* Started learning about Leaf templating system for Vapor.
+
+**Thoughts:** Started feeling sick again tonight.
+
+**Key concepts:** n/a
+
+**Links:** n/a
+
+---
