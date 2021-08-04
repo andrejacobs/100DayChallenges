@@ -21,3 +21,12 @@
 **Thoughts:** Started feeling sick again tonight. But preserved and did some "easier" exercise. Rather something than nothing.
 
 ---
+
+### Day 73: 3 August 2021
+
+**Today**:
+
+* Meditated for 5 minutes.
+
+**Thoughts:** n/a
+---
