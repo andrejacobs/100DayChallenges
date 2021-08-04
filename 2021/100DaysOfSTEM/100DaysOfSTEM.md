@@ -28,3 +28,4 @@ The challenge would be a failure if I have gone 3 consecutive days without follo
 * [Week 4](Week4/Week4.md)
 * [Week 5](Week5/Week5.md)
 * [Week 6](Week6/Week6.md)
+* [Week 7](Week7/Week7.md)
