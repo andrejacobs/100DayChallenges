@@ -8,6 +8,16 @@
 
 * Added bootstrap 5 to the Vapor app and serving static files along with form posting.
 
-**Thoughts:** Paragraph or two
+**Thoughts:** n/a
+
+---
+
+### Day 44: 4 August 2021
+
+**Today**:
+
+* Learning about how to use basic, token and cookie authentication with Vapor.
+
+**Thoughts:** n/a
 
 ---
