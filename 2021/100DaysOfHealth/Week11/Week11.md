@@ -29,4 +29,15 @@
 * Meditated for 5 minutes.
 
 **Thoughts:** n/a
+
+---
+
+### Day 74: 4 August 2021
+
+**Today**:
+
+* Did a kettlebell routine.
+
+**Thoughts:** n/a
+
 ---
