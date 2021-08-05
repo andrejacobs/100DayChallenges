@@ -21,3 +21,14 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 45: 5 August 2021
+
+**Today**:
+
+* Explored more of Vapor.
+* Digged deeper into how Swift property wrappers and projected values work.
+
+**Thoughts:** n/a
+
+---
