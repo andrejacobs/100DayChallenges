@@ -41,3 +41,14 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 75: 5 August 2021
+
+**Today**:
+
+* Did a kettlebell routine.
+* Took a small walk.
+
+**Thoughts:** n/a
+
+---
