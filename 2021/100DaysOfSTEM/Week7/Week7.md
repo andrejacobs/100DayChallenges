@@ -32,3 +32,14 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 46: 6 August 2021
+
+**Today**:
+
+* Implemented Google as OAuth2 authentication in Vapor.
+* Started working on my first Vapor project (that is not following the book's projects).
+
+**Thoughts:** n/a
+
+---
