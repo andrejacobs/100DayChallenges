@@ -52,3 +52,14 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 76: 6 August 2021
+
+**Today**:
+
+* Cooked a nice meal for myself and the kids dinner.
+* Did a bunch of chores around the house.
+
+**Thoughts:** n/a
+
+---
