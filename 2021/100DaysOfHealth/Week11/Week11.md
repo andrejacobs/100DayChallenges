@@ -63,3 +63,13 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 77: 7 August 2021
+
+**Today**:
+
+* Took the kids on a trip to the Isle of Wight and walked loads!
+
+**Thoughts:** n/a
+
+---
