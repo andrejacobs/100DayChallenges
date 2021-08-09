@@ -43,3 +43,12 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 47: 9 August 2021
+
+**Today**:
+
+* Worked more the Vapor project. Implemented some middleware as well.
+* Started reading Bill Gate's book How to avoid a Climate Disaster.
+
+**Thoughts:** Ironically it is also the day the new report came out: https://www.bbc.co.uk/news/science-environment-58130705
