@@ -49,6 +49,28 @@
 **Today**:
 
 * Worked more the Vapor project. Implemented some middleware as well.
-* Started reading Bill Gate's book How to avoid a Climate Disaster.
+* Started reading Bill Gates' book How to avoid a Climate Disaster.
 
 **Thoughts:** Ironically it is also the day the new report came out: https://www.bbc.co.uk/news/science-environment-58130705
+
+### Day 48: 10 August 2021
+
+**Today**:
+
+* Worked a bit more on my Swift Vapor project.
+* Reading Bill Gates' book How to avoid a Climate Disaster.
+
+**Thoughts:** n/a
+
+---
+
+### Day 49: 11 August 2021
+
+**Today**:
+
+* Finished my Swift Vapor project and even managed to Dockerize it.
+* Reading Bill Gates' book is an eye opener about Climate Disaster.
+
+**Thoughts:** n/a
+
+---
