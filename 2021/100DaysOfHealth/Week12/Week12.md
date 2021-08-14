@@ -32,3 +32,24 @@
 
 ---
 
+### Day 81: 12 August 2021
+
+**Today**:
+
+* Did a kettlebell routine
+
+**Thoughts:** n/a
+
+---
+
+### Day 82: 13 August 2021
+
+**Today**:
+
+* Short walk
+* Made portobello pizzas
+
+**Thoughts:** n/a
+
+---
+
