@@ -53,3 +53,32 @@
 
 ---
 
+### Day 83: 14 August 2021
+
+**Today**:
+
+* Kettlebell
+
+**Thoughts:** n/a
+
+---
+
+### Day 84: 15 August 2021
+
+**Today**:
+
+* Took the kids for a nice big walk
+
+**Thoughts:** n/a
+
+---
+
+### Day 85: 16 August 2021
+
+**Today**:
+
+* Kettlebell
+
+**Thoughts:** n/a
+
+---
