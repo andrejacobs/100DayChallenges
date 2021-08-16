@@ -72,13 +72,3 @@
 **Thoughts:** n/a
 
 ---
-
-### Day 85: 16 August 2021
-
-**Today**:
-
-* Kettlebell
-
-**Thoughts:** n/a
-
----
