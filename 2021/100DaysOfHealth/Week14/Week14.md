@@ -22,3 +22,32 @@
 
 ---
 
+### Day 94: 28 August 2021
+
+**Today**:
+
+* Swimming and sun bathing
+
+**Thoughts:** n/a
+
+---
+
+### Day 95: 29 August 2021
+
+**Today**:
+
+* Swimming and sun bathing
+
+**Thoughts:** n/a
+
+---
+
+### Day 96: 30 August 2021
+
+**Today**:
+
+* Swimming and sun bathing
+
+**Thoughts:** n/a
+
+---
