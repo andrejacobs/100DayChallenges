@@ -51,3 +51,43 @@
 **Thoughts:** n/a
 
 ---
+
+### Day 97: 31 August 2021
+
+**Today**:
+
+* Swimming and sun bathing
+
+**Thoughts:** n/a
+
+---
+
+### Day 98: 1 September 2021
+
+**Today**:
+
+* Last day of Swimming and sun bathing :-(
+
+**Thoughts:** n/a
+
+---
+
+### Day 99: 3 September 2021
+
+**Today**:
+
+* Back in the steep mountains.
+
+**Thoughts:** n/a
+
+---
+
+### Day 100: 4 September 2021
+
+**Today**:
+
+* Last day of walking up mountains.
+
+**Thoughts:** n/a
+
+---
