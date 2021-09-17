@@ -1,5 +1,14 @@
 # 100 Days Of STEM
 
+**UPDATE:** 17/09/2021
+
+I decided to stop this challenge after having done 60 days. In short the reason is, I went away on holiday and basically broke my own rules outlined below.
+
+My priorities have shifted after coming back from holiday and also I think it is much better to focus on a more specific area I want to learn/build-skill in.
+
+Failure is actually an option! Failure is part of the human condition and thus the learning process. I am not going to beat myself up over this since I have already completed 2 other 100 Day challenges and already proved to myself what I needed to learn about myself.
+
+**Original:**
 21 June 2021
 
 This is my 3rd challenge of doing a "100 Days of X" habbit building.
