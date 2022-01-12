@@ -16,3 +16,4 @@ A cleaner environment would lead to a clearer and more creative mind.
 ## Log book
 
 * [Week 1](Week1/Week1.md)
+* [Week 2](Week2/Week2.md)
